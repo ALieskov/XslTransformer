@@ -1,0 +1,4853 @@
+
+        <div class="au-deals-list">
+          
+          
+          
+          
+          
+          
+          
+          
+            
+            <div class="au-deal au-premium-deal">
+              <small class="au-deal-time">16:29</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">500 <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="697324" data-numbers="742-8">xxx-x</a>5-46
+              </span>
+              
+              <span class="au-deal-msg">
+                Минская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+          
+            
+            <div class="au-deal au-premium-deal">
+              <small class="au-deal-time">14:14</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000 <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696023" data-numbers="108-7">xxx-x</a>3-40
+              </span>
+              
+              <span class="au-deal-msg">
+                Лукьяновка, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+          
+            
+            <div class="au-deal au-premium-deal">
+              <small class="au-deal-time">13:48</small>
+              <span class="au-deal-currency">25,60</span>
+              <span class="au-deal-sum">5 000 <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="693703" data-numbers="350-1">xxx-x</a>6-61
+              </span>
+              
+              <span class="au-deal-msg">
+                подол от500, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+          
+          
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:28</small>
+              <span class="au-deal-currency">19,00</span>
+              <span class="au-deal-sum">200 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699280" data-numbers="">xxx-x</a>1-67
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:26</small>
+              <span class="au-deal-currency">22,00</span>
+              <span class="au-deal-sum">7 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699279" data-numbers="">xxx-x</a>1-68
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Подол
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:23</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699274" data-numbers="">xxx-x</a>6-33
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр  Л.Тостого Д.Спорта, 
+                целиком, могу подъехать, Утром с 8:30
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:23</small>
+              <span class="au-deal-currency">23,60</span>
+              <span class="au-deal-sum">200 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699273" data-numbers="">xxx-x</a>1-72
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:21</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">4 100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="699268" data-numbers="">xxx-x</a>8-84
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:21</small>
+              <span class="au-deal-currency">20,00</span>
+              <span class="au-deal-sum">200 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699267" data-numbers="">xxx-x</a>1-73
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:16</small>
+              <span class="au-deal-currency">24,00</span>
+              <span class="au-deal-sum">200 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699260" data-numbers="">xxx-x</a>1-75
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:12</small>
+              <span class="au-deal-currency">22,50</span>
+              <span class="au-deal-sum">125 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="699252" data-numbers="">xxx-x</a>2-00
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать, с 8 до 11 утра целиком,срочно.
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">23:08</small>
+              <span class="au-deal-currency">24,20</span>
+              <span class="au-deal-sum">10 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699246" data-numbers="">xxx-x</a>1-79
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:52</small>
+              <span class="au-deal-currency">24,50</span>
+              <span class="au-deal-sum">150 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699233" data-numbers="">xxx-x</a>1-86
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:46</small>
+              <span class="au-deal-currency">24,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="699229" data-numbers="">xxx-x</a>6-36
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, К.У.П.Л.Ю СОБІ 
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:46</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">150  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699228" data-numbers="">xxx-x</a>8-93
+              </span>
+              
+              <span class="au-deal-msg">
+                площадь Победы, Цирк , 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+          
+            
+              
+              <div class="au-deal" style="text-align: center; padding-top: 5px; background-color: #FFFFFF;  overflow: hidden;">
+            <span style="display: inline-block; text-align: center;">
+            <script type="text/javascript"><!--
+              google_ad_client = "ca-pub-2127333773716092";
+              /* minfin\web\Auction\content\728x90 */
+              google_ad_slot = "5089637170";
+              google_ad_width = 728;
+              google_ad_height = 90;
+              //-->
+            </script>
+            <script type="text/javascript"
+                    src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+            </span>
+              </div>
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:40</small>
+              <span class="au-deal-currency">32,00</span>
+              <span class="au-deal-sum">12 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="699220" data-numbers="">xxx-x</a>5-47
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:30</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699211" data-numbers="">xxx-x</a>3-67
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:28</small>
+              <span class="au-deal-currency">24,00</span>
+              <span class="au-deal-sum">15 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699206" data-numbers="">xxx-x</a>6-12
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Центр
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:13</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="699187" data-numbers="">xxx-x</a>1-69
+              </span>
+              
+              <span class="au-deal-msg">
+                Борщаговка, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">22:05</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="699174" data-numbers="">xxx-x</a>5-75
+              </span>
+              
+              <span class="au-deal-msg">
+                нивки, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:41</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">50 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="699142" data-numbers="">xxx-x</a>2-07
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:37</small>
+              <span class="au-deal-currency">24,79</span>
+              <span class="au-deal-sum">4 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="699138" data-numbers="">xxx-x</a>7-93
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:37</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="699137" data-numbers="">xxx-x</a>0-10
+              </span>
+              
+              <span class="au-deal-msg">
+                не обязательно, 
+                целиком, не обязательно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:30</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="699125" data-numbers="">xxx-x</a>6-91
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать, возле ст метро утром
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:30</small>
+              <span class="au-deal-currency">25,55</span>
+              <span class="au-deal-sum">4 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="699122" data-numbers="">xxx-x</a>9-25
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:27</small>
+              <span class="au-deal-currency">30,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="699118" data-numbers="">xxx-x</a>1-70
+              </span>
+              
+              <span class="au-deal-msg">
+                Бровары, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:20</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">520  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="699107" data-numbers="">xxx-x</a>2-87
+              </span>
+              
+              <span class="au-deal-msg">
+                Лыбидская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">21:10</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">4 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699079" data-numbers="">xxx-x</a>4-68
+              </span>
+              
+              <span class="au-deal-msg">
+                Любой, 
+                можно частями, могу подъехать, СРОЧНО!!!
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:57</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="699063" data-numbers="">xxx-x</a>7-05
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:50</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="699046" data-numbers="">xxx-x</a>6-39
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр Прорезная, 
+                целиком, Центр Прорезная
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:49</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">185 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="699041" data-numbers="">xxx-x</a>9-02
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:39</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="699019" data-numbers="">xxx-x</a>8-78
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:36</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">10 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699012" data-numbers="">xxx-x</a>6-44
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                можно частями, львовская пл., Артема
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:36</small>
+              <span class="au-deal-currency">20,00</span>
+              <span class="au-deal-sum">444  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699011" data-numbers="">xxx-x</a>1-66
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:35</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">150 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="699007" data-numbers="">xxx-x</a>0-70
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+              <div class="au-deal" style="text-align: center; padding-top: 5px; background-color: #FFFFFF; overflow: hidden;">
+            <span style="display: inline-block; text-align: center;">
+            <script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2127333773716092";
+                /* minfin\web\Auction\bottom\728x90 */
+                google_ad_slot = "8043052930";
+                google_ad_width = 728;
+                google_ad_height = 90;
+                //-->
+              </script>
+<script type="text/javascript"
+        src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            </span>
+              </div>
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:32</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">285  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="699002" data-numbers="">xxx-x</a>4-96
+              </span>
+              
+              <span class="au-deal-msg">
+                Левобережная, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:19</small>
+              <span class="au-deal-currency">24,80</span>
+              <span class="au-deal-sum">45 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698974" data-numbers="">xxx-x</a>0-76
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:16</small>
+              <span class="au-deal-currency">29,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698964" data-numbers="">xxx-x</a>9-99
+              </span>
+              
+              <span class="au-deal-msg">
+                Окружная, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">20:09</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="698945" data-numbers="">xxx-x</a>4-18
+              </span>
+              
+              <span class="au-deal-msg">
+                Хрещатик, 
+                целиком, Хрещатик, банк
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:58</small>
+              <span class="au-deal-currency">25,15</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698920" data-numbers="">xxx-x</a>3-53
+              </span>
+              
+              <span class="au-deal-msg">
+                КПИ, Шулявка, Берестейка, Скоросной трамвай все остановки, 
+                целиком, могу подъехать, от 1000
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:45</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">330  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698877" data-numbers="">xxx-x</a>7-62
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:42</small>
+              <span class="au-deal-currency">25,40</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="698865" data-numbers="">xxx-x</a>8-26
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:41</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698858" data-numbers="">xxx-x</a>0-47
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, Оболонь, 
+                можно частями, могу подъехать, СРОЧНО!
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:31</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698833" data-numbers="">xxx-x</a>3-82
+              </span>
+              
+              <span class="au-deal-msg">
+                БЕРЕСТЕЙСКАЯ, ШУЛЯВКА, 
+                можно частями, могу подъехать, от 1000$
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:29</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">1 950  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698821" data-numbers="">xxx-x</a>7-76
+              </span>
+              
+              <span class="au-deal-msg">
+                Центер , 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:23</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">800  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                068&nbsp;<a href="" class="js-showPhone" data-bid-id="698800" data-numbers="">xxx-x</a>0-40
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр,Оболонь,Троещина, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:13</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698757" data-numbers="">xxx-x</a>7-17
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, Центр
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:12</small>
+              <span class="au-deal-currency">25,40</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="698753" data-numbers="">xxx-x</a>9-90
+              </span>
+              
+              <span class="au-deal-msg">
+                университет цирк центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:12</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698750" data-numbers="">xxx-x</a>2-14
+              </span>
+              
+              <span class="au-deal-msg">
+                цирк, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:10</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698742" data-numbers="">xxx-x</a>2-21
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:08</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698731" data-numbers="">xxx-x</a>8-32
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:05</small>
+              <span class="au-deal-currency">24,50</span>
+              <span class="au-deal-sum">20 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="698721" data-numbers="">xxx-x</a>3-84
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:02</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">2 900  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698706" data-numbers="">xxx-x</a>4-10
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:01</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">1 250  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698697" data-numbers="">xxx-x</a>9-96
+              </span>
+              
+              <span class="au-deal-msg">
+                осокорки, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">19:01</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698695" data-numbers="">xxx-x</a>1-13
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, м. Дворец спорта, 
+                целиком, трц Гуливер
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:57</small>
+              <span class="au-deal-currency">30,50</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="698680" data-numbers="">xxx-x</a>6-32
+              </span>
+              
+              <span class="au-deal-msg">
+                Лукьяновка, Цирк, Чорновола, Кпи, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:57</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="698679" data-numbers="">xxx-x</a>0-20
+              </span>
+              
+              <span class="au-deal-msg">
+                минская, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:55</small>
+              <span class="au-deal-currency">24,80</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698671" data-numbers="">xxx-x</a>6-58
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, м.Льва Толстого
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:54</small>
+              <span class="au-deal-currency">27,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698667" data-numbers="">xxx-x</a>6-37
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:51</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 700  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698658" data-numbers="">xxx-x</a>3-03
+              </span>
+              
+              <span class="au-deal-msg">
+                академгородок, 
+                можно частями, могу подъехать, не обязательно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:46</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">3 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="698638" data-numbers="">xxx-x</a>4-97
+              </span>
+              
+              <span class="au-deal-msg">
+                Осокорки, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:40</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">1 300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="698607" data-numbers="">xxx-x</a>4-81
+              </span>
+              
+              <span class="au-deal-msg">
+                любой район, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:37</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698592" data-numbers="">xxx-x</a>9-54
+              </span>
+              
+              <span class="au-deal-msg">
+                Олимпийский, центр, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:36</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">650  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="698585" data-numbers="">xxx-x</a>6-07
+              </span>
+              
+              <span class="au-deal-msg">
+                Троещина Билла части, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:30</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698549" data-numbers="">xxx-x</a>8-22
+              </span>
+              
+              <span class="au-deal-msg">
+                Куреневка, петровка , дорогожичи, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:27</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="698534" data-numbers="">xxx-x</a>3-81
+              </span>
+              
+              <span class="au-deal-msg">
+                ЖД вокзал, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:23</small>
+              <span class="au-deal-currency">25,15</span>
+              <span class="au-deal-sum">1 200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="698513" data-numbers="">xxx-x</a>9-10
+              </span>
+              
+              <span class="au-deal-msg">
+                Печерский, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:23</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="698512" data-numbers="">xxx-x</a>7-55
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                целиком, могу подъехать, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:20</small>
+              <span class="au-deal-currency">27,00</span>
+              <span class="au-deal-sum">2 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698494" data-numbers="">xxx-x</a>9-14
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:18</small>
+              <span class="au-deal-currency">26,10</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="698486" data-numbers="">xxx-x</a>8-70
+              </span>
+              
+              <span class="au-deal-msg">
+                левый берег, 
+                можно частями, Воскресенка
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:18</small>
+              <span class="au-deal-currency">25,40</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="698484" data-numbers="">xxx-x</a>9-70
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:16</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                068&nbsp;<a href="" class="js-showPhone" data-bid-id="698465" data-numbers="">xxx-x</a>0-72
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Ул.Мечникова
+Срочно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:14</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="698454" data-numbers="">xxx-x</a>2-87
+              </span>
+              
+              <span class="au-deal-msg">
+                центр,печерск, м.харьковская, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:13</small>
+              <span class="au-deal-currency">25,60</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698446" data-numbers="">xxx-x</a>2-78
+              </span>
+              
+              <span class="au-deal-msg">
+                Любой, 
+                целиком, Можно больше
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:12</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">330  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="698438" data-numbers="">xxx-x</a>7-37
+              </span>
+              
+              <span class="au-deal-msg">
+                Вишневое, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">18:10</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="698421" data-numbers="">xxx-x</a>8-28
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать, Возможно частями от 500
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:58</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698327" data-numbers="">xxx-x</a>0-06
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, шулявка кпі. терміново
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:57</small>
+              <span class="au-deal-currency">24,00</span>
+              <span class="au-deal-sum">20 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="698314" data-numbers="">xxx-x</a>1-85
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:55</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698288" data-numbers="">xxx-x</a>1-10
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:51</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">1 190  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698258" data-numbers="">xxx-x</a>1-09
+              </span>
+              
+              <span class="au-deal-msg">
+                подол или центр, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:50</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">250  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698256" data-numbers="">xxx-x</a>2-99
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:44</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">650  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="698217" data-numbers="">xxx-x</a>8-40
+              </span>
+              
+              <span class="au-deal-msg">
+                Дарница, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:43</small>
+              <span class="au-deal-currency">36,50</span>
+              <span class="au-deal-sum">1 300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="698209" data-numbers="">xxx-x</a>5-74
+              </span>
+              
+              <span class="au-deal-msg">
+                Олимпийская,центр, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:43</small>
+              <span class="au-deal-currency">26,50</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="698205" data-numbers="">xxx-x</a>1-50
+              </span>
+              
+              <span class="au-deal-msg">
+                Дарницкий р-н, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:40</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="698181" data-numbers="">xxx-x</a>0-72
+              </span>
+              
+              <span class="au-deal-msg">
+                Шулявка, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:38</small>
+              <span class="au-deal-currency">29,45</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="698169" data-numbers="">xxx-x</a>5-79
+              </span>
+              
+              <span class="au-deal-msg">
+                Лукьяновка, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:37</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="698167" data-numbers="">xxx-x</a>7-77
+              </span>
+              
+              <span class="au-deal-msg">
+                Лыбидская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:35</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">4 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                068&nbsp;<a href="" class="js-showPhone" data-bid-id="698136" data-numbers="">xxx-x</a>0-00
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр Парк Шевченко, 
+                можно частями, могу подъехать, Офис, М.Льва Толстого, Театральная
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:17</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                068&nbsp;<a href="" class="js-showPhone" data-bid-id="698001" data-numbers="">xxx-x</a>0-86
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:16</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">10 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="697992" data-numbers="">xxx-x</a>3-95
+              </span>
+              
+              <span class="au-deal-msg">
+                П О З Н Я К И, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:15</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">30 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="697982" data-numbers="">xxx-x</a>9-07
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:10</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="697939" data-numbers="">xxx-x</a>3-03
+              </span>
+              
+              <span class="au-deal-msg">
+                Льва Толстого или Позняки, 
+                целиком, Льва Толстого или Позняки
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:09</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">350  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="697929" data-numbers="">xxx-x</a>0-37
+              </span>
+              
+              <span class="au-deal-msg">
+                Позняки, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:01</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="697848" data-numbers="">xxx-x</a>6-30
+              </span>
+              
+              <span class="au-deal-msg">
+                Подол. Розетка, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">17:00</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="697834" data-numbers="">xxx-x</a>1-41
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:47</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="697711" data-numbers="">xxx-x</a>6-15
+              </span>
+              
+              <span class="au-deal-msg">
+                шулявка, 
+                целиком, Саша
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:47</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="697704" data-numbers="">xxx-x</a>1-52
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:43</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">600  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="697662" data-numbers="">xxx-x</a>3-55
+              </span>
+              
+              <span class="au-deal-msg">
+                Театральная, центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:42</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="697656" data-numbers="">xxx-x</a>6-29
+              </span>
+              
+              <span class="au-deal-msg">
+                ЦТ "Даринок", 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:42</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="697652" data-numbers="">xxx-x</a>7-44
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:40</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="697636" data-numbers="">xxx-x</a>3-53
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:37</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">100 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="697600" data-numbers="">xxx-x</a>4-60
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:26</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="697494" data-numbers="">xxx-x</a>9-98
+              </span>
+              
+              <span class="au-deal-msg">
+                Троещина, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:25</small>
+              <span class="au-deal-currency">29,00</span>
+              <span class="au-deal-sum">940  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="697484" data-numbers="">xxx-x</a>8-66
+              </span>
+              
+              <span class="au-deal-msg">
+                виноградар, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:24</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="697467" data-numbers="">xxx-x</a>4-55
+              </span>
+              
+              <span class="au-deal-msg">
+                Севастопольская пл. Караваевы дачи, 
+                можно частями, частями 25,5
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:18</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">4 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="697414" data-numbers="">xxx-x</a>2-12
+              </span>
+              
+              <span class="au-deal-msg">
+                Позняки, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:15</small>
+              <span class="au-deal-currency">25,80</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="697378" data-numbers="">xxx-x</a>9-02
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр борщаговка, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:12</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">6 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="697341" data-numbers="">xxx-x</a>6-65
+              </span>
+              
+              <span class="au-deal-msg">
+                любой, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:07</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="697293" data-numbers="">xxx-x</a>7-62
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:06</small>
+              <span class="au-deal-currency">24,95</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                091&nbsp;<a href="" class="js-showPhone" data-bid-id="697288" data-numbers="">xxx-x</a>6-79
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, От 200$ Борщаговка Героев Космоса 2 Б
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:06</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="697283" data-numbers="">xxx-x</a>5-10
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:05</small>
+              <span class="au-deal-currency">25,40</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="697269" data-numbers="">xxx-x</a>5-25
+              </span>
+              
+              <span class="au-deal-msg">
+                Дворец спорта, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">16:01</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">7 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="697229" data-numbers="">xxx-x</a>0-09
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:56</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="697179" data-numbers="">xxx-x</a>4-45
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:52</small>
+              <span class="au-deal-currency">25,80</span>
+              <span class="au-deal-sum">50 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="697143" data-numbers="">xxx-x</a>4-33
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:52</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">20 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="697141" data-numbers="">xxx-x</a>7-59
+              </span>
+              
+              <span class="au-deal-msg">
+                Левый берег, ул. Бориспольская, 
+                можно частями, могу подъехать, От 10 000
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:51</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="697131" data-numbers="">xxx-x</a>3-85
+              </span>
+              
+              <span class="au-deal-msg">
+                Университет, 
+                целиком, Гостиница ексспресс очень срочно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:49</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="697106" data-numbers="">xxx-x</a>8-91
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:47</small>
+              <span class="au-deal-currency">26,49</span>
+              <span class="au-deal-sum">1 150  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="697083" data-numbers="">xxx-x</a>8-80
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                можно частями, От 100
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:43</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="697024" data-numbers="">xxx-x</a>4-10
+              </span>
+              
+              <span class="au-deal-msg">
+                Бориспольская ул., 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:42</small>
+              <span class="au-deal-currency">25,80</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="697009" data-numbers="">xxx-x</a>0-05
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:40</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696993" data-numbers="">xxx-x</a>2-23
+              </span>
+              
+              <span class="au-deal-msg">
+                Осокорки Харьковский, 
+                целиком, только целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:39</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">100 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696979" data-numbers="">xxx-x</a>4-26
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, от 100 000 
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:38</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696958" data-numbers="">xxx-x</a>7-54
+              </span>
+              
+              <span class="au-deal-msg">
+                Борщаговка, 
+                можно частями, могу подъехать, Срочно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:35</small>
+              <span class="au-deal-currency">25,15</span>
+              <span class="au-deal-sum">1 900  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="696930" data-numbers="">xxx-x</a>9-27
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать, Подъеду
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:35</small>
+              <span class="au-deal-currency">29,00</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696922" data-numbers="">xxx-x</a>2-79
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:31</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="696878" data-numbers="">xxx-x</a>6-98
+              </span>
+              
+              <span class="au-deal-msg">
+                Святошино, Центр, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:29</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="696859" data-numbers="">xxx-x</a>3-50
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, Від 300
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:28</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696839" data-numbers="">xxx-x</a>7-77
+              </span>
+              
+              <span class="au-deal-msg">
+                Позняки, 
+                можно частями, Часть
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:23</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">800  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696800" data-numbers="">xxx-x</a>9-29
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:23</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696799" data-numbers="">xxx-x</a>0-88
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                можно частями, могу подъехать, от1000
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:21</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="696784" data-numbers="">xxx-x</a>5-84
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:19</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696761" data-numbers="">xxx-x</a>2-92
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, ARTMALL Заболотного 37. До 22.00.
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:17</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696741" data-numbers="">xxx-x</a>5-99
+              </span>
+              
+              <span class="au-deal-msg">
+                центр,льва толстого,палац спорта,гулливер, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:16</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">110 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="696731" data-numbers="">xxx-x</a>5-71
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:15</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="696716" data-numbers="">xxx-x</a>2-25
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:11</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                068&nbsp;<a href="" class="js-showPhone" data-bid-id="696675" data-numbers="">xxx-x</a>3-95
+              </span>
+              
+              <span class="au-deal-msg">
+                Березняки (Левобережная), 
+                можно частями, от 500
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">15:11</small>
+              <span class="au-deal-currency">25,15</span>
+              <span class="au-deal-sum">350  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696665" data-numbers="">xxx-x</a>0-69
+              </span>
+              
+              <span class="au-deal-msg">
+                Академгородок, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:51</small>
+              <span class="au-deal-currency">26,50</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="696459" data-numbers="">xxx-x</a>2-51
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:46</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="696402" data-numbers="">xxx-x</a>4-24
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:41</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">800  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="696344" data-numbers="">xxx-x</a>7-28
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:39</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696322" data-numbers="">xxx-x</a>4-77
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, дворец украина, 
+                можно частями, могу подъехать, От 1000
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:38</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="696319" data-numbers="">xxx-x</a>6-33
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:36</small>
+              <span class="au-deal-currency">24,50</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696293" data-numbers="">xxx-x</a>5-62
+              </span>
+              
+              <span class="au-deal-msg">
+                Лукьяновка, Центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:31</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="696252" data-numbers="">xxx-x</a>7-01
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:28</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="696220" data-numbers="">xxx-x</a>0-05
+              </span>
+              
+              <span class="au-deal-msg">
+                Соломенка, севастопольская, 
+                можно частями, Севастопольская, соломенка, чоколовка, кардачи, космонавтов, антонова.
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:27</small>
+              <span class="au-deal-currency">25,25</span>
+              <span class="au-deal-sum">5 700  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="696208" data-numbers="">xxx-x</a>6-00
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:22</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">600  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="696149" data-numbers="">xxx-x</a>0-07
+              </span>
+              
+              <span class="au-deal-msg">
+                Ленинградская пл., 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:16</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="696074" data-numbers="">xxx-x</a>2-82
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:12</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="696016" data-numbers="">xxx-x</a>7-04
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонский, 
+                можно частями, можно частями от 500$, оболонь, Минская, Героев Днепра
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:07</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="695940" data-numbers="">xxx-x</a>9-65
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:06</small>
+              <span class="au-deal-currency">24,00</span>
+              <span class="au-deal-sum">100 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="695909" data-numbers="">xxx-x</a>7-52
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:05</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">6 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="695887" data-numbers="">xxx-x</a>6-46
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:03</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="695859" data-numbers="">xxx-x</a>7-54
+              </span>
+              
+              <span class="au-deal-msg">
+                Борщаговка, 
+                целиком, Торг
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">14:00</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="695832" data-numbers="">xxx-x</a>3-57
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Центр
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:59</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="695812" data-numbers="">xxx-x</a>6-86
+              </span>
+              
+              <span class="au-deal-msg">
+                Олімпійська, Палац Україна, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:52</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695723" data-numbers="">xxx-x</a>7-09
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                целиком, Золотые Ворота
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:51</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="695709" data-numbers="">xxx-x</a>7-13
+              </span>
+              
+              <span class="au-deal-msg">
+                Позняки , 
+                целиком, Ул. Урловская 
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:50</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">600  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="695695" data-numbers="">xxx-x</a>5-35
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                целиком, Леруа, Минская
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:37</small>
+              <span class="au-deal-currency">25,70</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="695518" data-numbers="">xxx-x</a>5-30
+              </span>
+              
+              <span class="au-deal-msg">
+                КПИ, центр, Ленинградская пл, 
+                можно частями, могу подъехать, не обязательно
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:36</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">8 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695507" data-numbers="">xxx-x</a>5-31
+              </span>
+              
+              <span class="au-deal-msg">
+                АКАДЕМГОРОДОК, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:35</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">4 250  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="695489" data-numbers="">xxx-x</a>0-15
+              </span>
+              
+              <span class="au-deal-msg">
+                м позняки м харьковкая, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:33</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">45 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="695475" data-numbers="">xxx-x</a>8-95
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:32</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695459" data-numbers="">xxx-x</a>6-88
+              </span>
+              
+              <span class="au-deal-msg">
+                Академгородок, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:30</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="695429" data-numbers="">xxx-x</a>9-92
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Оболонь, Караван
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:28</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="695407" data-numbers="">xxx-x</a>1-34
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, Троещина
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:23</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="695335" data-numbers="">xxx-x</a>9-55
+              </span>
+              
+              <span class="au-deal-msg">
+                Дарницкий, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:22</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">8 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695322" data-numbers="">xxx-x</a>9-77
+              </span>
+              
+              <span class="au-deal-msg">
+                метро Дарниця, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:21</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">1 700  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695295" data-numbers="">xxx-x</a>2-84
+              </span>
+              
+              <span class="au-deal-msg">
+                оболонь, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:16</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695208" data-numbers="">xxx-x</a>9-23
+              </span>
+              
+              <span class="au-deal-msg">
+                Лукьяновка, Голосеево, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:14</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="695184" data-numbers="">xxx-x</a>0-34
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:11</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">100 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                044&nbsp;<a href="" class="js-showPhone" data-bid-id="695131" data-numbers="">xxx-x</a>4-08
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:10</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">600  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="695122" data-numbers="">xxx-x</a>5-50
+              </span>
+              
+              <span class="au-deal-msg">
+                левобережная, 
+                целиком, Целиком, новые купюры
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:08</small>
+              <span class="au-deal-currency">25,10</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="695088" data-numbers="">xxx-x</a>0-07
+              </span>
+              
+              <span class="au-deal-msg">
+                Банк Петровка, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:04</small>
+              <span class="au-deal-currency">24,50</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="695021" data-numbers="">xxx-x</a>1-19
+              </span>
+              
+              <span class="au-deal-msg">
+                Дружбы Народов, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">13:03</small>
+              <span class="au-deal-currency">25,25</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="695010" data-numbers="">xxx-x</a>2-62
+              </span>
+              
+              <span class="au-deal-msg">
+                Академгородок, Сырец, Нивки, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:58</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">5 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="694937" data-numbers="">xxx-x</a>9-16
+              </span>
+              
+              <span class="au-deal-msg">
+                цирк центр, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:56</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="694914" data-numbers="">xxx-x</a>6-20
+              </span>
+              
+              <span class="au-deal-msg">
+                борщаговка, 
+                можно частями, продам 50$ если будет сдача со 100$
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:53</small>
+              <span class="au-deal-currency">25,99</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="694882" data-numbers="">xxx-x</a>6-66
+              </span>
+              
+              <span class="au-deal-msg">
+                Борщаговка, 
+                можно частями, могу подъехать, Шулявка, индустриальный, калибрис.
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:51</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">900  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694861" data-numbers="">xxx-x</a>6-40
+              </span>
+              
+              <span class="au-deal-msg">
+                петровка, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:51</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">50 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="694854" data-numbers="">xxx-x</a>4-33
+              </span>
+              
+              <span class="au-deal-msg">
+                Печерск , 
+                можно частями, Частями 
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:50</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694844" data-numbers="">xxx-x</a>1-13
+              </span>
+              
+              <span class="au-deal-msg">
+                Харьковская, 
+                можно частями, ст метро Харьковская
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:50</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">10 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694843" data-numbers="">xxx-x</a>0-57
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                можно частями, от 100 у.е.
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:49</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694821" data-numbers="">xxx-x</a>6-99
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:47</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">8 500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="694802" data-numbers="">xxx-x</a>9-38
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:45</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">800  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="694776" data-numbers="">xxx-x</a>9-60
+              </span>
+              
+              <span class="au-deal-msg">
+                Арсенальная, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:36</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="694657" data-numbers="">xxx-x</a>9-35
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:36</small>
+              <span class="au-deal-currency">25,60</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                095&nbsp;<a href="" class="js-showPhone" data-bid-id="694650" data-numbers="">xxx-x</a>1-29
+              </span>
+              
+              <span class="au-deal-msg">
+                центр, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:35</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">20 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="694642" data-numbers="">xxx-x</a>3-58
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:26</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="694517" data-numbers="">xxx-x</a>2-64
+              </span>
+              
+              <span class="au-deal-msg">
+                Ул. Л. Толстого, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:23</small>
+              <span class="au-deal-currency">30,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694471" data-numbers="">xxx-x</a>2-74
+              </span>
+              
+              <span class="au-deal-msg">
+                Дарницкий, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:22</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694466" data-numbers="">xxx-x</a>8-03
+              </span>
+              
+              <span class="au-deal-msg">
+                пл. Победы  ,  Политех, Шулявка, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:22</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">900  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="694464" data-numbers="">xxx-x</a>8-85
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком, могу подъехать, Оболонь. Можу під*їхати. Бажано цілу суму.
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:17</small>
+              <span class="au-deal-currency">30,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="694399" data-numbers="">xxx-x</a>1-80
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, могу подъехать, Срочно!!!
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:15</small>
+              <span class="au-deal-currency">25,20</span>
+              <span class="au-deal-sum">2 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694374" data-numbers="">xxx-x</a>0-88
+              </span>
+              
+              <span class="au-deal-msg">
+                Подол, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:12</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">50 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694325" data-numbers="">xxx-x</a>0-68
+              </span>
+              
+              <span class="au-deal-msg">
+                Центр, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:10</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">4 600  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694299" data-numbers="">xxx-x</a>6-98
+              </span>
+              
+              <span class="au-deal-msg">
+                Дв Украины, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:10</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694288" data-numbers="">xxx-x</a>4-86
+              </span>
+              
+              <span class="au-deal-msg">
+                Севастопольская пл., Большевик, Соломенка, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:08</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="694261" data-numbers="">xxx-x</a>2-87
+              </span>
+              
+              <span class="au-deal-msg">
+                Кловская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:08</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                093&nbsp;<a href="" class="js-showPhone" data-bid-id="694260" data-numbers="">xxx-x</a>8-81
+              </span>
+              
+              <span class="au-deal-msg">
+                М.вокзальная, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:08</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="694259" data-numbers="">xxx-x</a>7-98
+              </span>
+              
+              <span class="au-deal-msg">
+                метро Дружбы народов, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:04</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">10 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="694221" data-numbers="">xxx-x</a>7-77
+              </span>
+              
+              <span class="au-deal-msg">
+                Пр. Победы, Черновола, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">12:01</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">9 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="694183" data-numbers="">xxx-x</a>5-47
+              </span>
+              
+              <span class="au-deal-msg">
+                Оболонь, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:59</small>
+              <span class="au-deal-currency">24,80</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="694159" data-numbers="">xxx-x</a>6-56
+              </span>
+              
+              <span class="au-deal-msg">
+                м.Осокорки, Славутич, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:59</small>
+              <span class="au-deal-currency">27,00</span>
+              <span class="au-deal-sum">175 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="694154" data-numbers="">xxx-x</a>6-25
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:58</small>
+              <span class="au-deal-currency">25,50</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694150" data-numbers="">xxx-x</a>7-62
+              </span>
+              
+              <span class="au-deal-msg">
+                Борщаговка,Окружная,Проспект победы, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:57</small>
+              <span class="au-deal-currency">26,00</span>
+              <span class="au-deal-sum">800  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                096&nbsp;<a href="" class="js-showPhone" data-bid-id="694118" data-numbers="">xxx-x</a>0-62
+              </span>
+              
+              <span class="au-deal-msg">
+                Шулявка, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:53</small>
+              <span class="au-deal-currency">28,00</span>
+              <span class="au-deal-sum">1 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="694069" data-numbers="">xxx-x</a>4-52
+              </span>
+              
+              <span class="au-deal-msg">
+                Голосеевский, 
+                можно частями, подъеду к оушен плазе
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:50</small>
+              <span class="au-deal-currency">25,30</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="694023" data-numbers="">xxx-x</a>9-45
+              </span>
+              
+              <span class="au-deal-msg">
+                центр Красноармейская, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:47</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="693983" data-numbers="">xxx-x</a>9-66
+              </span>
+              
+              <span class="au-deal-msg">
+                вул.Борщагівська, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:38</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                097&nbsp;<a href="" class="js-showPhone" data-bid-id="693862" data-numbers="">xxx-x</a>1-75
+              </span>
+              
+              <span class="au-deal-msg">
+                ленинградская площадь, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:35</small>
+              <span class="au-deal-currency">24,90</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                098&nbsp;<a href="" class="js-showPhone" data-bid-id="693810" data-numbers="">xxx-x</a>0-30
+              </span>
+              
+              <span class="au-deal-msg">
+                ПОЗНЯКИ, 
+                можно частями, Если целиком то могу подъехать! 
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:31</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">300  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                099&nbsp;<a href="" class="js-showPhone" data-bid-id="693756" data-numbers="">xxx-x</a>7-68
+              </span>
+              
+              <span class="au-deal-msg">
+                Осокорки, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:29</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">200  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="693738" data-numbers="">xxx-x</a>1-09
+              </span>
+              
+              <span class="au-deal-msg">
+                метро Житомирская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:19</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">400  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="693606" data-numbers="">xxx-x</a>9-53
+              </span>
+              
+              <span class="au-deal-msg">
+                Кловская, 
+                целиком
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:12</small>
+              <span class="au-deal-currency">26,30</span>
+              <span class="au-deal-sum">100 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="693514" data-numbers="">xxx-x</a>1-80
+              </span>
+              
+              <span class="au-deal-msg">
+                
+                можно частями, от 5000
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:12</small>
+              <span class="au-deal-currency">24,80</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                063&nbsp;<a href="" class="js-showPhone" data-bid-id="693509" data-numbers="">xxx-x</a>2-83
+              </span>
+              
+              <span class="au-deal-msg">
+                харьковская, 
+                целиком, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:11</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">500  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                066&nbsp;<a href="" class="js-showPhone" data-bid-id="693492" data-numbers="">xxx-x</a>6-88
+              </span>
+              
+              <span class="au-deal-msg">
+                Печерск, 
+                можно частями
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:10</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">100  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                067&nbsp;<a href="" class="js-showPhone" data-bid-id="693478" data-numbers="">xxx-x</a>9-59
+              </span>
+              
+              <span class="au-deal-msg">
+                Позняки, 
+                целиком, ТЦ Центрум
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+            
+            
+            <div class="au-deal">
+              <small class="au-deal-time">11:08</small>
+              <span class="au-deal-currency">25,00</span>
+              <span class="au-deal-sum">3 000  <label title="доллары США">$</label></span>
+              <span class="au-dealer-phone">
+                050&nbsp;<a href="" class="js-showPhone" data-bid-id="693456" data-numbers="">xxx-x</a>1-27
+              </span>
+              
+              <span class="au-deal-msg">
+                борщаговка теремки, 
+                можно частями, могу подъехать
+                
+              </span>
+            </div>
+            
+            
+            
+              
+            
+          
+          
+          
+        </div>

@@ -8,18 +8,19 @@
   <xsl:output method="xml" indent="yes" />
 
   <!--ENTRY POINT-->
-  <xsl:template match="/">
+  <xsl:template match="/div">
+  	  <!--/div[@class='au-deals-list']-->
     <MoneyOrders>
 		<xsl:for-each select="div">
-			<xsl:element name="MoneyOrder">
-	  <!--div[@class='au-deal']-->
+			<MoneyOrder>
+
 				<Time>
-					<xsl:value-of select="//small[@class='au-deal-time']"/>
+					<xsl:value-of select="small[@class='au-deal-time']"/>
 				</Time>
 				<Currency>
-					<xsl:value-of select="//span[@class='au-deal-currency']"/>
+					<xsl:value-of select="span[@class='au-deal-currency']"/>
 				</Currency>
-			</xsl:element>
+		</MoneyOrder>
 		</xsl:for-each>
     </MoneyOrders>
   </xsl:template>

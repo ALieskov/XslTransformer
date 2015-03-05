@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Xsl;
+using HtmlAgilityPack;
 
 namespace ConsoleMoneyTransform
 {
@@ -13,30 +14,20 @@ namespace ConsoleMoneyTransform
     {
         static void Main(string[] args)
         {
-            //var myXslTransform = new XslTransform();
-            //myXslTransform.Load("infoBuilder.xsl");
-            //myXslTransform.Transform("source.txt", "destination.xml");
             var str = File.ReadAllText("source.txt");
-            str = str.Replace("&nbsp;", "");
+            //str = str.Replace("&nbsp;", "");
 
-            XmlDocument doc = new XmlDocument();
+            HtmlDocument htmlDoc = new HtmlDocument();
+            htmlDoc.OptionFixNestedTags = true;
+            htmlDoc.LoadHtml(str);
 
-            using (var reader = new StringReader(str))
-            {
-                doc.Load(reader);
-            }
+            HtmlNode div = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
+            htmlDoc = new HtmlDocument();
+            htmlDoc.LoadHtml(div.OuterHtml);
 
             XslTransform xslt = new XslTransform();
             xslt.Load("infoBuilder.xsl");
-            
-            // Create a new document containing just the node fragment.
-            XmlNode testNode = doc.DocumentElement.FirstChild;
-            XmlDocument tmpDoc = new XmlDocument();
-            tmpDoc.LoadXml(testNode.OuterXml);
-            // Pass the document containing the node fragment 
-            // to the Transform method.
-            //Console.WriteLine("Passing " + tmpDoc.OuterXml + " to print_root.xsl");
-            xslt.Transform(tmpDoc, null, Console.Out, null);
+            xslt.Transform(htmlDoc, null, Console.Out, null);
             Console.ReadKey();
         }
     }

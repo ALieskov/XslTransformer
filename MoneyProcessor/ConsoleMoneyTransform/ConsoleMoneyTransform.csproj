@@ -52,9 +52,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\infoBuilder.xsl">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Assets\infoBuilder.xsl" />
     <Content Include="Assets\source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

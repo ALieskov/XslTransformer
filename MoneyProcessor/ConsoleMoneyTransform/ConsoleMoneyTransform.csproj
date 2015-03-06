@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstractions\ITransformer.cs" />
-    <Compile Include="Helper\URLDestination.cs" />
+    <Compile Include="Helper\URLConstants.cs" />
     <Compile Include="Model\MoneyOrders.cs" />
     <Compile Include="Model\Processing.cs" />
     <Compile Include="Program.cs" />

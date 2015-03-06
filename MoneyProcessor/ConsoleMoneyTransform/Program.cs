@@ -14,7 +14,7 @@ namespace ConsoleMoneyTransform
     {
         static void Main(string[] args)
         {
-            var str = File.ReadAllText("Assets/source.txt");
+            var str = File.ReadAllText("Assets/buy_source.txt");
             str = str.Replace("&nbsp;", "");
 
             HtmlDocument htmlDoc = new HtmlDocument();

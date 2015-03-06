@@ -51,3 +51,5 @@ MoneyProcessor/ConsoleMoneyTransform/obj/Debug/ConsoleMoneyTransform.pdb
 MoneyProcessor/ConsoleMoneyTransform/obj/Debug/ConsoleMoneyTransform.exe
 MoneyProcessor/ConsoleMoneyTransform/obj/Debug/ConsoleMoneyTransform.csprojResolveAssemblyReference.cache
 MoneyProcessor/ConsoleMoneyTransform/obj/Debug/ConsoleMoneyTransform.csproj.GenerateResource.Cache
+MoneyProcessor/ConsoleMoneyTransform/bin/Debug/Assets/buy_source.txt
+MoneyProcessor/ConsoleMoneyTransform/bin/Debug/Assets/sell_source.txt

@@ -28,7 +28,7 @@ namespace ConsoleMoneyTransform
             var xslt = new XslCompiledTransform();
             var settings = new XsltSettings {EnableScript = true};
 
-            using (StringReader sr = new StringReader(Resource.MinfinTransformSchema))
+            using (StringReader sr = new StringReader(Resource.Minfin_TransformSchema))
                 using (XmlReader xr = XmlReader.Create(sr))
                 {
                     xslt.Load(xr, settings, null);

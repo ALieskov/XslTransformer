@@ -76,7 +76,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="Resources\finance.i.ua.xsl" />
-    <None Include="Resources\infoBuilder.xsl" />
+    <None Include="Resources\minf.xsl" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resource.resx">

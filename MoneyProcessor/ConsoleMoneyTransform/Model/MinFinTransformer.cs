@@ -29,7 +29,7 @@ namespace ConsoleMoneyTransform.Model
             htmlDoc.LoadHtml(div.OuterHtml);
 
             var xslt = new XslCompiledTransform();
-            using (StringReader sr = new StringReader(Resource.MinfinTransformSchema))
+            using (StringReader sr = new StringReader(Resource.Minfin_TransformSchema))
             using (XmlReader xr = XmlReader.Create(sr))
             {
                 xslt.Load(xr);

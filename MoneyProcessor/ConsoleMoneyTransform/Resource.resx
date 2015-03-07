@@ -121,7 +121,7 @@
   <data name="Finance_i_ua_TransformSchema" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\finance.i.ua.xsl;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
-  <data name="MinfinTransformSchema" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\infoBuilder.xsl;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  <data name="Minfin_TransformSchema" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\minf.xsl;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
 </root>

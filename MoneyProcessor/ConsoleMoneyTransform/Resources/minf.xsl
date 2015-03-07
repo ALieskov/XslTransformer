@@ -10,7 +10,9 @@
   <msxsl:script language="C#" implements-prefix="user">
     <!--<msxsl:assembly name="System.String" />-->
     <msxsl:using namespace="System" />
-    <![CDATA[public string TrimAll(string trim){return trim.Trim();}]]>
+    <![CDATA[
+        public string TrimAll(string trim){return trim.Trim();}
+      ]]>
   </msxsl:script>
   
   <!--ENTRY POINT-->

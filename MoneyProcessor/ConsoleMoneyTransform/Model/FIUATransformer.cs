@@ -6,33 +6,37 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Xsl;
+using ConsoleMoneyTransform.Abstractions;
 using HtmlAgilityPack;
 
-namespace ConsoleMoneyTransform
+namespace ConsoleMoneyTransform.Model
 {
-    class Program
+    public class FIUATransformer : ITransformer
     {
-        static void Main(string[] args)
+        public MoneyOrders GetTransformedResult()
         {
-            var str = File.ReadAllText("Assets/buy_Minfin_source.txt");
+            throw new NotImplementedException();
+        }
+
+        void Transform()
+        {
+            var str = File.ReadAllText("Assets/buy_FIUA_source.txt");
             str = str.Replace("&nbsp;", "");
-            
+
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
             htmlDoc.LoadHtml(str);
-            HtmlNode div = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
+            HtmlNode table = htmlDoc.DocumentNode.SelectSingleNode("//table[@class='local_table local_table-black_market']");
 
             htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(div.OuterHtml);
+            htmlDoc.LoadHtml(table.OuterHtml);
 
             var xslt = new XslCompiledTransform();
-            var settings = new XsltSettings {EnableScript = true};
-
-            using (StringReader sr = new StringReader(Resource.MinfinTransformSchema))
-                using (XmlReader xr = XmlReader.Create(sr))
-                {
-                    xslt.Load(xr, settings, null);
-                }
+            using (StringReader sr = new StringReader(Resource.Finance_i_ua_TransformSchema))
+            using (XmlReader xr = XmlReader.Create(sr))
+            {
+                xslt.Load(xr);
+            }
 
             StringBuilder resultString = new StringBuilder();
             XmlWriter writer = XmlWriter.Create(resultString);
@@ -42,11 +46,5 @@ namespace ConsoleMoneyTransform
             Console.ReadKey();
         }
 
-
-        public string TrimAll(string trim)
-        {
-            //Regex.Replace(myString, @"\s+", " ");
-            return trim.Trim();
-        }
     }
 }

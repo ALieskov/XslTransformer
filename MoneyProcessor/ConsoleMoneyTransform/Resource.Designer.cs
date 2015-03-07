@@ -63,21 +63,17 @@ namespace ConsoleMoneyTransform {
         /// <summary>
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
         ///
-        ///&lt;xsl:stylesheet version=&quot;2.0&quot;
-        ///    xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
-        ///    xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;
-        ///    xmlns:func=&quot;urn:script-functions&quot; exclude-result-prefixes=&quot;msxsl func&quot;&gt;
+        ///&lt;xsl:stylesheet version=&quot;1.0&quot;
+        ///                xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
+        ///                xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;
+        ///                xmlns:func=&quot;urn:script-functions&quot; 
+        ///                exclude-result-prefixes=&quot;msxsl func csharp&quot;
+        ///                xmlns:csharp=&quot;urn:my-scripts&quot;&gt;
         ///
         ///  &lt;xsl:output method=&quot;xml&quot; indent=&quot;yes&quot; encoding=&quot;UTF-8&quot;/&gt;
         ///
-        ///  &lt;!--ENTRY POINT--&gt;
-        ///  &lt;xsl:template match=&quot;/table&quot;&gt;
-        ///    &lt;MoneyOrders&gt;
-        ///		&lt;xsl:for-each select=&quot;tr[@class=&apos;&apos;]&quot;&gt;
-        ///			&lt;MoneyOrder&gt;
-        ///        &lt;Time&gt;
-        ///					&lt;xsl:value-of select=&quot;td[1]&quot;/&gt;
-        ///				&lt;/Tim [rest of string was truncated]&quot;;.
+        ///  &lt;msxsl:script language=&quot;C#&quot; implements-prefix=&quot;csharp&quot;&gt;
+        ///    &lt;!--&lt;msxsl:assembly nam [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Finance_i_ua_TransformSchema {
             get {
@@ -91,14 +87,39 @@ namespace ConsoleMoneyTransform {
         ///&lt;xsl:stylesheet version=&quot;1.0&quot;
         ///    xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
         ///    xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;
-        ///    xmlns:func=&quot;urn:script-functions&quot; exclude-result-prefixes=&quot;msxsl func&quot;
-        ///    xmlns:user=&quot;urn:my-scripts&quot;&gt;
+        ///    xmlns:func=&quot;urn:script-functions&quot; 
+        ///    exclude-result-prefixes=&quot;msxsl func csharp&quot;
+        ///    xmlns:csharp=&quot;urn:my-scripts&quot;&gt;
         ///
         ///  &lt;xsl:output method=&quot;xml&quot; indent=&quot;yes&quot; /&gt;
-        ///  &lt;msxsl:script language=&quot;C#&quot; implements-prefix=&quot;user&quot;&gt;
+        ///  
+        ///  &lt;msxsl:script language=&quot;C#&quot; implements-prefix=&quot;csharp&quot;&gt;
         ///    &lt;!--&lt;msxsl:assembly name=&quot;System.String&quot; /&gt;--&gt;
         ///    &lt;msxsl:using namespace=&quot;System&quot; /&gt;
-        ///    &lt;![CDATA[public string Tri [rest of string was truncated]&quot;;.
+        ///    &lt;msxs [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Finance_TransformSchema {
+            get {
+                return ResourceManager.GetString("Finance_TransformSchema", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///
+        ///&lt;xsl:stylesheet version=&quot;1.0&quot;
+        ///    xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
+        ///    xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;
+        ///    xmlns:func=&quot;urn:script-functions&quot; 
+        ///    exclude-result-prefixes=&quot;msxsl func csharp&quot;
+        ///    xmlns:csharp=&quot;urn:my-scripts&quot;&gt;
+        ///
+        ///  &lt;xsl:output method=&quot;xml&quot; indent=&quot;yes&quot; /&gt;
+        ///  
+        ///  &lt;msxsl:script language=&quot;C#&quot; implements-prefix=&quot;csharp&quot;&gt;
+        ///    &lt;!--&lt;msxsl:assembly name=&quot;System.String&quot; /&gt;--&gt;
+        ///    &lt;msxsl:using namespace=&quot;System&quot; /&gt;
+        ///    &lt;msxs [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Minfin_TransformSchema {
             get {

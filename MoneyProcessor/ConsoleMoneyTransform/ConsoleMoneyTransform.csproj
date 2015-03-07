@@ -37,6 +37,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,10 +47,12 @@
   <ItemGroup>
     <Compile Include="Abstractions\ITransformer.cs" />
     <Compile Include="Helper\URLConstants.cs" />
+    <Compile Include="Model\FinanceTransformer.cs" />
     <Compile Include="Model\FIUATransformer.cs" />
     <Compile Include="Model\MinFinTransformer.cs" />
     <Compile Include="Model\MoneyOrders.cs" />
     <Compile Include="Model\Processing.cs" />
+    <Compile Include="Model\RequestData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resource.Designer.cs">
@@ -78,6 +81,7 @@
     <Content Include="Assets\sell_Minfin_source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\finance.xsl" />
     <None Include="Resources\finance.i.ua.xsl" />
     <None Include="Resources\minf.xsl" />
   </ItemGroup>

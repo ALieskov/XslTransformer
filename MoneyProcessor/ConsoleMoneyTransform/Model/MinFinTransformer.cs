@@ -17,16 +17,16 @@ namespace ConsoleMoneyTransform.Model
 
         void Transform()
         {
-            var str = File.ReadAllText("Assets/buy_source.txt");
+            var str = File.ReadAllText("Assets/buy_Minfin_source.txt");
             str = str.Replace("&nbsp;", "");
 
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
             htmlDoc.LoadHtml(str);
-            HtmlNode div = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
+            HtmlNode xslDoBlock = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
 
             htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(div.OuterHtml);
+            htmlDoc.LoadHtml(xslDoBlock.OuterHtml);
 
             var xslt = new XslCompiledTransform();
             using (StringReader sr = new StringReader(Resource.Minfin_TransformSchema))

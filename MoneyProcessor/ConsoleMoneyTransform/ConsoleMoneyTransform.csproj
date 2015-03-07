@@ -69,6 +69,9 @@
     <Content Include="Assets\buy_FIUA_source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\all_finance_source.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Assets\sell_FIUA_source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

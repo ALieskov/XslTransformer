@@ -26,10 +26,10 @@ namespace ConsoleMoneyTransform.Model
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
             htmlDoc.LoadHtml(str);
-            HtmlNode table = htmlDoc.DocumentNode.SelectSingleNode("//table[@class='local_table local_table-black_market']");
+            HtmlNode xslDoBlock = htmlDoc.DocumentNode.SelectSingleNode("//table[@class='local_table local_table-black_market']");
 
             htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(table.OuterHtml);
+            htmlDoc.LoadHtml(xslDoBlock.OuterHtml);
 
             var xslt = new XslCompiledTransform();
             using (StringReader sr = new StringReader(Resource.Finance_i_ua_TransformSchema))

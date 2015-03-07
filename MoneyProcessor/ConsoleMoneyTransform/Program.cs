@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Xsl;
@@ -14,21 +15,21 @@ namespace ConsoleMoneyTransform
     {
         static void Main(string[] args)
         {
-            var str = File.ReadAllText("Assets/buy_Minfin_source.txt");
+            var str = File.ReadAllText("Assets/buy_FIUA_source.txt");
             str = str.Replace("&nbsp;", "");
             
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
             htmlDoc.LoadHtml(str);
-            HtmlNode div = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
+            HtmlNode xslDoBlock = htmlDoc.DocumentNode.SelectSingleNode("//table[@class='local_table local_table-black_market']");
 
             htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(div.OuterHtml);
+            htmlDoc.LoadHtml(xslDoBlock.OuterHtml);
 
             var xslt = new XslCompiledTransform();
             var settings = new XsltSettings {EnableScript = true};
 
-            using (StringReader sr = new StringReader(Resource.Minfin_TransformSchema))
+            using (StringReader sr = new StringReader(Resource.Finance_i_ua_TransformSchema))
                 using (XmlReader xr = XmlReader.Create(sr))
                 {
                     xslt.Load(xr, settings, null);
@@ -43,10 +44,9 @@ namespace ConsoleMoneyTransform
         }
 
 
-        public string TrimAll(string trim)
+        public string Replace(string str, string oldValue, string newValue)
         {
-            //Regex.Replace(myString, @"\s+", " ");
-            return trim.Trim();
+            return str.Replace(oldValue, newValue);
         }
     }
 }

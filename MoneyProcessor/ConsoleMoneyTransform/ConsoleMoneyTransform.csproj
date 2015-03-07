@@ -62,12 +62,19 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\buy_source.txt">
+    <Content Include="Assets\buy_Minfin_source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Assets\sell_source.txt">
+    <Content Include="Assets\buy_FIUA_source.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\sell_FIUA_source.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\sell_Minfin_source.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\finance.i.ua.xsl" />
     <None Include="Resources\infoBuilder.xsl" />
   </ItemGroup>
   <ItemGroup>

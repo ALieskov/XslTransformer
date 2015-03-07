@@ -14,19 +14,19 @@ namespace ConsoleMoneyTransform
     {
         static void Main(string[] args)
         {
-            var str = File.ReadAllText("Assets/buy_source.txt");
+            var str = File.ReadAllText("Assets/sell_FIUA_source.txt");
             str = str.Replace("&nbsp;", "");
 
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
             htmlDoc.LoadHtml(str);
-            HtmlNode div = htmlDoc.DocumentNode.SelectSingleNode("//div[@class='au-deals-list']");
+            HtmlNode table = htmlDoc.DocumentNode.SelectSingleNode("//table[@class='local_table local_table-black_market']");
 
             htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(div.OuterHtml);
+            htmlDoc.LoadHtml(table.OuterHtml);
 
             var xslt = new XslCompiledTransform();
-            using (StringReader sr = new StringReader(Resource.MinfinTransformSchema))
+            using (StringReader sr = new StringReader(Resource.Finance_i_ua_TransformSchema))
                 using (XmlReader xr = XmlReader.Create(sr))
                 {
                     xslt.Load(xr);

@@ -1,0 +1,3089 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Купить доллар на черном рынке в Киеве&nbsp;</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<link rel="icon" href="http://i3.i.ua/css/i2/favicon_16.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://i3.i.ua/css/i2/favicon_16.ico" type="image/x-icon">
+<![if !IE]><link rel="stylesheet" type="text/css" media="all" href="http://i3.i.ua/css/i2/blue/sprite/finance.yf5e134cd.css" /><![endif]>
+<!--[if gte IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i3.i.ua/css/i2/blue/sprite/finance_ie.yf5e134cd.css" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i3.i.ua/css/i2/blue/sprite/finance_ie7.yf5e134cd.css" /><![endif]-->
+<script type="text/javascript">
+<!--
+var lmJsVersion = 1.690;
+var lmJsPath = 'http://i3.i.ua/js/';
+var JS_LANG_ID = 0;
+var I_VER2 = true;
+//-->
+</script>
+<script type="text/javascript" src="http://i3.i.ua/js/util.y91827f28.js"></script>
+<script type="text/javascript" src="http://i3.i.ua/js/JSHttpRequest.y9ae7bfa1.js"></script>
+<script type="text/javascript" src="http://i3.i.ua/js/i/global.y60073d9e.js"></script>
+<script type="text/javascript" src="http://i3.i.ua/js/i/autoload.y3a781420.js"></script>
+<meta name="description" content="Купить доллар в Киеве. Смотри курс обмена и где можно купить наличный доллар на черном рынке в Киеве и по всей Украине" />
+		<meta name="keywords" content="купить доллар, купить доллары, черный рынок, черный рынок Киев, купить доллар Киев, купить наличный доллар, купить наличный доллар Киев, купить наличный доллар в Киеве, купить доллары Киев" />
+	<script type="text/javascript">
+<!--
+if (window.frPr)
+	window.frPr();
+//-->
+</script>
+</head>
+
+<body>
+<div id="bmcounter">
+<script type="text/javascript" language="javascript"><!--
+iS='<img src="http://r.i.ua/s?u95600&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="1" height="1" />');
+bmQ='http://c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+"&r"+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('chswqwdyZ4XqoK.NbO.OK3a4Xov17aNZBQTH0BXjhWn.37');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+ILoadScript('//kpmediagaua.hit.gemius.pl/xgemius.js');
+
+var tns_already, tnscm_adn = tnscm_adn || [];
+(function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+if (!tns_already) {
+	tns_already=1;
+
+	UtilLite.addEvent(window, 'load', function () {
+		var i=new Image();
+		i.src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=i.ua&j=1&nocache="+Math.random();
+		ILoadScript("http://source.mmi.bemobile.ua/cm/cm.js");
+	});
+}
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-34374057-1']);
+_gaq.push(['_setDomainName', '.i.ua']);
+_gaq.push(['_addOrganic', 'go.mail.ru', 'q']);
+_gaq.push(['_addOrganic', 'nigma.ru', 's']);
+_gaq.push(['_addOrganic', 'search.qip.ru', 'query']);
+_gaq.push(['_addOrganic', 'aport.ru', 'r']);
+_gaq.push(['_addOrganic', 'webalta.ru', 'q']);
+_gaq.push(['_addOrganic', 'search.livetool.ru', 'text']);
+_gaq.push(['_addOrganic', 'poisk.ngs.ru', 'q']);
+_gaq.push(['_addOrganic', 'search.tyt.by', 'query']);
+_gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']);
+_gaq.push(['_addOrganic', 'liveinternet.ru', 'q']);
+_gaq.push(['_addOrganic', 'meta.ua', 'q']);
+_gaq.push(['_addOrganic', 'gogo.ru', 'q']);
+_gaq.push(['_trackPageview']);
+UtilLite.addEvent(window, 'load', function () {
+	ILoadScript('//stats.g.doubleclick.net/dc.js');
+});
+//--></script></div>
+
+	<div id="header_overall" class="header_overall">
+		<div class="ho_nav">
+			<a href="http://i.ua" class="ho_logo"></a>
+			<ul class="ho_menu ho_menu-main">
+	<li class="ho_menu_item"><a href="http://www.i.ua/">Главная</a></li>
+	<li class="ho_menu_item"><span class="a ho_sections" onClick="i_showSections(this)">Разделы</span></li>
+</ul>
+<ul id="user_sections2_editable" class="ho_menu ho_menu-sections">
+</ul>
+			<ul class="ho_menu ho_menu-account">
+<li class="ho_menu_item"><a onclick="return i_showFloat(1);" href="http://passport.i.ua/login/">Вход</a></li>
+<li class="ho_menu_item"><a href="http://passport.i.ua/registration/?_url=http%3A%2F%2Ffinance.i.ua%2Fmarket%2Fkiev%2Fusd%2F%3Ftype%3D1">Регистрация</a></li>
+</ul>
+		</div>
+		<div class="ho_sections_nav" id="sections" style="display: none">
+	<div class="ho_sections_content">
+		<ul class="ho_site_sections">
+<li class="ho_site_sections_item"><a sectionID="11" class="icon i_mail" href="http://mail.i.ua/">Почта</a></li><li class="ho_site_sections_item"><a sectionID="45" class="icon i_finance" href="http://finance.i.ua/">Финансы</a></li><li class="ho_site_sections_item"><a sectionID="43" class="icon i_map" href="http://map.i.ua/">Карты</a></li><li class="ho_site_sections_item"><a sectionID="26" class="icon i_tv" href="http://tv.i.ua/">TV</a></li><li class="ho_site_sections_item"><a sectionID="23" class="icon i_weather" href="http://weather.i.ua/">Погода</a></li><li class="ho_site_sections_item"><a sectionID="22" class="icon i_pisces" href="http://goroskop.i.ua/">Гороскоп</a></li><li class="ho_site_sections_item"><a sectionID="64" class="icon i_music" href="http://music.i.ua/">Музыка</a></li><li class="ho_site_sections_item"><a sectionID="81" class="icon i_radio" href="http://radio.i.ua/">Радио</a></li><li class="ho_site_sections_item"><a sectionID="55" class="icon i_kino" href="http://kino.i.ua/">Кино</a></li><li class="ho_site_sections_item"><a sectionID="29" class="icon i_perevod" href="http://perevod.i.ua/">Перевод</a></li><li class="ho_site_sections_item"><a sectionID="47" class="icon i_org" href="http://org.i.ua/">Органайзер</a></li><li class="ho_site_sections_item"><a sectionID="56" class="icon i_files" href="http://files.i.ua/">Файлы</a></li><li class="ho_site_sections_item"><a sectionID="16" class="icon i_job" href="http://job.i.ua/">Работа</a></li><li class="ho_site_sections_item"><a sectionID="24" class="icon i_catalog" href="http://catalog.i.ua/">Каталог</a></li><li class="ho_site_sections_item"><a sectionID="36" class="icon i_links" href="http://links.i.ua/">Закладки</a></li><li class="ho_site_sections_item"><a sectionID="17" class="icon i_rss" href="http://rss.i.ua/">RSS</a></li><li class="ho_site_sections_item"><a sectionID="41" class="icon i_board" href="http://board.i.ua/">Объявления</a></li><li class="ho_site_sections_item"><a sectionID="31" class="icon i_shop" href="http://shop.i.ua/">Магазины</a></li><li class="ho_site_sections_item"><a sectionID="48" class="icon i_news" href="http://news.i.ua/">Новости</a></li><li class="ho_site_sections_item"><a sectionID="52" class="icon i_games" href="http://games.i.ua/">Игры</a></li><li class="ho_site_sections_item"><a sectionID="66" class="icon i_apps" href="http://apps.i.ua/">Приложения</a></li><li class="ho_site_sections_item"><a sectionID="42" class="icon i_oboi" href="http://oboi.i.ua/">Обои</a></li><li class="ho_site_sections_item"><a sectionID="49" class="icon i_cards" href="http://cards.i.ua/">Открытки</a></li><li class="ho_site_sections_item"><a sectionID="74" class="icon i_group" href="http://group.i.ua/">Группы</a></li><li class="ho_site_sections_item"><a sectionID="28" class="icon i_narod" href="http://narod.i.ua/">Народ</a></li><li class="ho_site_sections_item"><a sectionID="20" class="icon i_prikol" href="http://prikol.i.ua/">Приколы</a></li><li class="ho_site_sections_item"><a sectionID="21" class="icon i_love" href="http://love.i.ua/">Знакомства</a></li><li class="ho_site_sections_item"><a sectionID="25" class="icon i_photo" href="http://photo.i.ua/">Фото</a></li><li class="ho_site_sections_item"><a sectionID="30" class="icon i_blog" href="http://blog.i.ua/">Блоги</a></li><li class="ho_site_sections_item"><a sectionID="32" class="icon i_video" href="http://video.i.ua/">Видео</a></li><li class="ho_site_sections_item"><a sectionID="59" class="icon i_cook" href="http://cook.i.ua/">Рецепты</a></li><li class="ho_site_sections_item"><a sectionID="69" class="icon i_otvet" href="http://otvet.i.ua/">Ответы</a></li>		</ul>
+	</div>
+	<i class="ho_sections_nav_switcher" onclick="i_showSections();" title="Скрыть меню разделов"></i>
+</div>
+	</div>
+	<div class="header_adv spring">
+		<div class="header_adv_item">
+<div id="banner730"><script type="text/javascript" src="http://h.holder.com.ua/s?b1033&tj&hwww.i.ua&r750849805&c1&u0"></script></div>		</div>
+	</div>
+	<div class="section_nav">
+		<ul class="sn_menu">
+			<li class="sn_menu_item"><span class="sn_menu_title">Курсы валют</span></li>
+			<li class="sn_menu_item "><a href="/" >Главная</a></li>
+			<li class="sn_menu_item _current"><a href="/market/" >Черный рынок</a></li>
+			<li class="sn_menu_item "><a href="/nbu/" >НБУ</a></li>
+			<li class="sn_menu_item "><a href="/fuel/" >Топливо</a></li>
+			<li class="sn_menu_item "><a href="/informers/" >Валютные информеры</a></li>
+			<li class="sn_menu_item "><a href="/converter/" >Конвертер валют</a></li>
+		</ul>
+	</div>
+<!--/branding -->
+
+<!-- }}} HEADER -->
+<div  class="Body clear">
+<div  class="Right">
+
+<!-- LEFT {{{ -->
+<!-- Right content-->
+<div class="baner"><script id="premiumBlock" type="text/javascript" src="http://h.holder.com.ua/s?b2557&tj&hwww.i.ua&r750849805&c1&u0"></script></div>
+<div class="block_important"><div class="tl"></div><div class="br"></div><div class="content clear"> Обращаем внимание, что за нарушение порядка и условий осуществления операций купли-продажи иностранной валюты, лица, виновные в таких нарушениях, несут ответственность в соответствии со ст. 162 Кодекса Украины об административных правонарушениях, согласно которой незаконные скупка, продажа, обмен, использование валютных ценностей как средства платежа или залога - влекут за собой предупреждение или наложение штрафа от тридцати до сорока четырех необлагаемых минимумов доходов граждан с конфискацией валютных ценностей.</div></div>
+<!-- /Right content-->
+<div class="block_gamma_gradient">
+	<div class="tl"></div>
+	<div class="br"></div>
+	<div class="content clear">
+		<h2>Новости <a target="_blank" href="http://news.i.ua/news/4/">финансов</a></h2>
+		<ul class="list_simple list_time">
+<li><span class="time">12:05</span><a target="_blank" href="http://news.i.ua/theme/1956022/">Нынешний курс доллара продержится три месяца - эксперт</a></li>
+<li><span class="time">08:23</span><a target="_blank" href="http://news.i.ua/theme/1955868/">Срок ликвидации банков в Украине могут увеличить до 5 лет</a></li>
+<li><span class="time">06:39</span><a target="_blank" href="http://news.i.ua/theme/1955765/">Арбузов: в закромах НБУ осталось $250-300 млн</a></li>
+<li><span class="time">01:10</span><a target="_blank" href="http://news.i.ua/theme/1955777/">S&amp;P понизило рейтинги четырех российских страховых компаний</a></li>
+<li><span class="time">20:51</span><a target="_blank" href="http://news.i.ua/theme/1955586/">Украина снизила за сутки запасы газа в ПХГ на 0,39%</a></li>
+<li><span class="time">19:09</span><a target="_blank" href="http://news.i.ua/theme/1955497/">После подорожания газа украинцы массово перестанут за него платить - эксперт</a></li>
+<li><span class="time">18:31</span><a target="_blank" href="http://news.i.ua/theme/1955462/">Инфляция в феврале в годовом выражении ускорилась до 34,5% - Госстат</a></li>
+<li><span class="time">18:07</span><a target="_blank" href="http://news.i.ua/theme/1955427/">Rothschild пытается стать посредником в переговорах по долгу Украины</a></li>
+<li><span class="time">17:31</span><a target="_blank" href="http://news.i.ua/theme/1955354/">Разницы между 3G и 4G практически не будет - Перша шпальта</a></li>
+<li><span class="time">16:32</span><a target="_blank" href="http://news.i.ua/theme/1955347/">Средняя цена импорта электроэнергии из России в феврале составляла 2,3 рубля/кВт-час</a></li>
+		</ul>  	
+	</div>
+</div>
+<!-- }}} LEFT -->
+</div>
+<div  class="Left">
+<div  class="Wrap">
+
+<!-- CENTER {{{ -->
+<script>
+	function changeCity(city, currency) {
+		location.href = '/market/' + city + '/' + currency;
+	}
+		function showPhone(el, phone) {
+			el.className = '';
+			el.innerHTML = atob(phone);
+		}
+	</script>
+<div class="sorting clear">
+	<h2>Черный рынок валют</h2>
+	<big><a href="/market/add/" class="add"><i></i>добавить объявление</a></big>
+</div>
+
+<div class="block_gamma_dark">
+	<div class="tl"></div><div class="br"></div>
+	<div class="content clear">		
+		<div class="title_form clear">
+<select name="locationID" class="float_right" onchange="location.href = '/market/' + this.value + '/usd/';"><option value="aleksandriya">Александрия</option><option value="artemovsk">Артемовск</option><option value="barishevka">Барышевка</option><option value="belaya tserkov">Белая&nbsp;Церковь</option><option value="belgorod-dnestrovskiy">Белгород-Днестровский</option><option value="berdichev">Бердичев</option><option value="berezhani">Бережаны</option><option value="boguslav">Богуслав</option><option value="borispol">Борисполь</option><option value="borodyanka">Бородянка</option><option value="boyarka">Боярка</option><option value="brovari">Бровары</option><option value="bucha">Буча</option><option value="vasilkov">Васильков</option><option value="vinnitsa">Винница</option><option value="vishnevoe">Вишневое</option><option value="vishgorod">Вышгород</option><option value="genichesk">Геническ</option><option value="gorodenka">Городенка</option><option value="gorodische">Городище</option><option value="gorodnya">Городня</option><option value="gorohov">Горохов</option><option value="gusyatin">Гусятин</option><option value="derazhnya">Деражня</option><option value="dneprodzerzhinsk">Днепродзержинск</option><option value="dnepropetrovsk">Днепропетровск</option><option value="donetsk">Донецк</option><option value="dubno">Дубно</option><option value="zheltie vodi">Желтые&nbsp;Воды</option><option value="zhitomir">Житомир</option><option value="zaporozhe">Запорожье</option><option value="ivano-frankovsk">Ивано-Франковск</option><option value="izyaslav">Изяслав</option><option value="irpen">Ирпень</option><option value="ichnya">Ичня</option><option value="kamenets-podolskiy">Каменец-Подольский</option><option value="kanev">Канев</option><option value="kahovka">Каховка</option><option value="kiev" selected="selected">Киев</option><option value="kirovograd">Кировоград</option><option value="komsomolsk">Комсомольск</option><option value="konotop">Конотоп</option><option value="korosten">Коростень</option><option value="kramatorsk">Краматорск</option><option value="krasnoarmeysk">Красноармейск</option><option value="kremenchug">Кременчуг</option><option value="krivoe ozero">Кривое&nbsp;Озеро</option><option value="krivoy rog">Кривой&nbsp;Рог</option><option value="lozovaya">Лозовая</option><option value="lubni">Лубны</option><option value="lugansk">Луганск</option><option value="lugini">Лугины</option><option value="lutsk">Луцк</option><option value="lvov">Львов</option><option value="marganets">Марганец</option><option value="mariupol">Мариуполь</option><option value="melitopol">Мелитополь</option><option value="nikolaev">Николаев</option><option value="nikopol">Никополь</option><option value="novomoskovsk">Новомосковск</option><option value="obuhov">Обухов</option><option value="ovruch">Овруч</option><option value="odessa">Одесса</option><option value="ordzhonikidze">Орджоникидзе</option><option value="pavlograd">Павлоград</option><option value="poltava">Полтава</option><option value="priluki">Прилуки</option><option value="pyatihatki">Пятихатки</option><option value="radehov">Радехов</option><option value="rahov">Рахов</option><option value="rovno">Ровно</option><option value="sambor">Самбор</option><option value="svatovo">Сватово</option><option value="svetlovodsk">Светловодск</option><option value="slavyansk">Славянск</option><option value="stariy sambor">Старый&nbsp;Самбор</option><option value="sumi">Сумы</option><option value="ternopol">Тернополь</option><option value="tokmak">Токмак</option><option value="truskavets">Трускавец</option><option value="tyachev">Тячев</option><option value="uzhgorod">Ужгород</option><option value="uman">Умань</option><option value="fastov">Фастов</option><option value="harkov">Харьков</option><option value="herson">Херсон</option><option value="hmelnitskiy">Хмельницкий</option><option value="hust">Хуст</option><option value="chaplinka">Чаплинка</option><option value="cherkassi">Черкассы</option><option value="chernigov">Чернигов</option><option value="chernovtsi">Черновцы</option><option value="yuzhnoukrainsk">Южноукраинск</option></select>			<ul class="navigation_tabs_rounded">
+				<li class="current"><i><a href="/market/kiev/usd/?type=1">Покупка: 204</a></i></li>
+				<li ><i><a href="/market/kiev/usd/?type=2">Продажа: 244</a></i></li>
+			</ul>
+			<ul class="navigation_tabs_rounded">
+				<li ><i><a href="/market/kiev/?type=1">Все</a></i></li>
+									<li class="current"><i><a href="/market/kiev/usd/?type=1">USD</a></i></li>
+										<li ><i><a href="/market/kiev/eur/?type=1">EUR</a></i></li>
+										<li ><i><a href="/market/kiev/rub/?type=1">RUB</a></i></li>
+								</ul> 
+		</div>  
+
+		<table class="local_table local_table-black_market">
+			<tr>
+		<th class="width_5"><a href="/market/kiev/usd/?type=1&sort=time&desc=1" class="" title="Отсортировать">Время<i></i></a></th>
+				<th class="width_10"><a href="/market/kiev/usd/?type=1&sort=ratio&desc=1" class="" title="Отсортировать">Курс<i></i></a></th>
+				<th class="width_10"><a href="/market/kiev/usd/?type=1&sort=amount&desc=1" class="" title="Отсортировать">Сумма<i></i></a></th>
+						<th class="align_left width_15">Телефон</th>
+				<th class="align_left">Район</th>
+				<th class="align_left width_40">Комментарий</th>
+			</tr>
+							<tr class="">
+					<td>13:20</td>
+					<td>26</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'NTY4ODI0MQ==')">Показать</span>					</td>
+					<td class="align_left">Позняки Харьковский</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:19</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MDgwMjg4NA==')">Показать</span>					</td>
+					<td class="align_left">Печерск</td>
+					<td class="align_left">всю суму куплю</td>
+				</tr>
+								<tr class="">
+					<td>13:18</td>
+					<td>25.5</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'ODMzMDY1Ng==')">Показать</span>					</td>
+					<td class="align_left">Харьковский Позняки Осокорки Бориспольская</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>13:18</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NjkxMzc5Nw==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская площ чоколовка соломенка</td>
+					<td class="align_left">Соломенка Севаст площ Чоколовка Кардачи можно больше можно частями от100 подьеду</td>
+				</tr>
+								<tr class="">
+					<td>13:18</td>
+					<td>26</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'Mzg1MzMyMg==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:16</td>
+					<td>25.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'Nzg1OTI5Mg==')">Показать</span>					</td>
+					<td class="align_left">м. Харьковская, Позняки, Лен-кая п-дь, Харьковское</td>
+					<td class="align_left">куплю от 100</td>
+				</tr>
+								<tr class="">
+					<td>13:16</td>
+					<td>25.55</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">Левый Берег. м Позняки. мХарьковская</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:15</td>
+					<td>26</td>
+					<td>7000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjM2NTE0Ng==')">Показать</span>					</td>
+					<td class="align_left">Академгородок Святошино</td>
+					<td class="align_left">Куплю 7000!!! срочно!!!! до 15. 00</td>
+				</tr>
+								<tr class="">
+					<td>13:14</td>
+					<td>26.2</td>
+					<td>60000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MzkwNzU5MA==')">Показать</span>					</td>
+					<td class="align_left">Шевченковский от 5 т курс выше офис или приеду</td>
+					<td class="align_left">могу подъехать можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:14</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'ODc1NTAwMA==')">Показать</span>					</td>
+					<td class="align_left">м. Дарница</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>13:14</td>
+					<td>26</td>
+					<td>50 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzA0NDkxNg==')">Показать</span>					</td>
+					<td class="align_left">Куреневка, Оболонь</td>
+					<td class="align_left">Могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>13:13</td>
+					<td>24.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'Njc1NjUxMQ==')">Показать</span>					</td>
+					<td class="align_left">Окружная</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:12</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MzA4MDA0OA==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">можно частями от 300 долларов</td>
+				</tr>
+								<tr class="">
+					<td>13:12</td>
+					<td>24</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MTAwMDAyNw==')">Показать</span>					</td>
+					<td class="align_left">оболонь</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>13:12</td>
+					<td>26</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'NjQ2NzEzNg==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>13:12</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MzAxNTIyMA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать Целиком</td>
+				</tr>
+								<tr class="">
+					<td>13:12</td>
+					<td>25.7</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTE3MDcxOA==')">Показать</span>					</td>
+					<td class="align_left">Любой, подъеду</td>
+					<td class="align_left">можно частями, торг</td>
+				</tr>
+								<tr class="">
+					<td>13:11</td>
+					<td>26.1</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NzY0NDU0Mw==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">можно частями От</td>
+				</tr>
+								<tr class="">
+					<td>13:11</td>
+					<td>26</td>
+					<td>4000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NTU4NTQ5NQ==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская, Соломенская, Космонавтов пл. </td>
+					<td class="align_left">можно частями, от 1000 подъеду</td>
+				</tr>
+								<tr class="">
+					<td>13:10</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MzMxODYzNQ==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка</td>
+					<td class="align_left">могу подъехать, можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:10</td>
+					<td>26.12</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTA4MDE0Mg==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">можно частями, могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>13:10</td>
+					<td>26.2</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NjQ4ODkxOA==')">Показать</span>					</td>
+					<td class="align_left">Лесная</td>
+					<td class="align_left">всю суму</td>
+				</tr>
+								<tr class="">
+					<td>13:09</td>
+					<td>25.7</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjQ5MzY5OQ==')">Показать</span>					</td>
+					<td class="align_left">Дорогожичи</td>
+					<td class="align_left">можно частями от 400</td>
+				</tr>
+								<tr class="">
+					<td>13:09</td>
+					<td>24</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'MjE4NzI1Mg==')">Показать</span>					</td>
+					<td class="align_left">Троещино</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>13:08</td>
+					<td>26</td>
+					<td>1800 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE3OTg4NQ==')">Показать</span>					</td>
+					<td class="align_left">метро Дворец Спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:08</td>
+					<td>26</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTYyNjM0MA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка</td>
+					<td class="align_left">могу подъехать, срочно</td>
+				</tr>
+								<tr class="">
+					<td>13:07</td>
+					<td>25.9</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzY2MjUyNQ==')">Показать</span>					</td>
+					<td class="align_left">Дворец спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:07</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjE2NjIxMQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенская площадь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:07</td>
+					<td>26.1</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MzY3NTcwNA==')">Показать</span>					</td>
+					<td class="align_left">Оболонский</td>
+					<td class="align_left">можно частями от 100, оболонь, Минская, Героев Днепра</td>
+				</tr>
+								<tr class="">
+					<td>13:07</td>
+					<td>26.2</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTc5MjA5NQ==')">Показать</span>					</td>
+					<td class="align_left">Лівобережна</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:07</td>
+					<td>25</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjQ3MjEyNw==')">Показать</span>					</td>
+					<td class="align_left">Академгородок, Ашан Беличи, Эпицентр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:06</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTI4NTMyOA==')">Показать</span>					</td>
+					<td class="align_left">Л е в о б е р е ж н а я левый берег</td>
+					<td class="align_left">могу подъехать, можно частями от 100</td>
+				</tr>
+								<tr class="">
+					<td>13:06</td>
+					<td>26</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'NjY4NDI1MQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:06</td>
+					<td>26</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTc3MTMwMg==')">Показать</span>					</td>
+					<td class="align_left">нывки святошино</td>
+					<td class="align_left">могу подъехать можно частямиот100</td>
+				</tr>
+								<tr class="">
+					<td>13:05</td>
+					<td>26</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NDcyMDk3Mg==')">Показать</span>					</td>
+					<td class="align_left">Театральная Печерск Бессарабка Гуливер</td>
+					<td class="align_left">частями от 100, возможно подъеду</td>
+				</tr>
+								<tr class="">
+					<td>13:05</td>
+					<td>25</td>
+					<td>1100 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTQyMjUzMw==')">Показать</span>					</td>
+					<td class="align_left">любой район, договоримся</td>
+					<td class="align_left">можно частями, подъеду, срочно</td>
+				</tr>
+								<tr class="">
+					<td>13:05</td>
+					<td>26</td>
+					<td>25000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'ODcyNDEyMw==')">Показать</span>					</td>
+					<td class="align_left">Н и в к и частями</td>
+					<td class="align_left">с а л ю т н а я</td>
+				</tr>
+								<tr class="">
+					<td>13:05</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTAwNDY4OA==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:04</td>
+					<td>26</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NzU4MjEzMQ==')">Показать</span>					</td>
+					<td class="align_left">М. теремки магелан</td>
+					<td class="align_left">от 100</td>
+				</tr>
+								<tr class="">
+					<td>13:03</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'OTY3NDk1Mw==')">Показать</span>					</td>
+					<td class="align_left">Любой могу подьехать</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>13:00</td>
+					<td>21</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'MTYxMTk3OA==')">Показать</span>					</td>
+					<td class="align_left">Оболонь. Любой. </td>
+					<td class="align_left">можу під'їхати</td>
+				</tr>
+								<tr class="">
+					<td>12:59</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'OTI3MzYzOA==')">Показать</span>					</td>
+					<td class="align_left">любой могу подъехать</td>
+					<td class="align_left">могу подъехать можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:58</td>
+					<td>25.7</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MjU4Mjk3Mg==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать, срочно</td>
+				</tr>
+								<tr class="">
+					<td>12:57</td>
+					<td>25.5</td>
+					<td>900 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MTQ3NzgxOA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка, Кольцова</td>
+					<td class="align_left">могу подъехать, можно частями от 100</td>
+				</tr>
+								<tr class="">
+					<td>12:56</td>
+					<td>24.2</td>
+					<td>250 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE0ODI0Nw==')">Показать</span>					</td>
+					<td class="align_left">Майдан, Контрактова</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>12:52</td>
+					<td>26</td>
+					<td>1800 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'Mzg0NjM1MA==')">Показать</span>					</td>
+					<td class="align_left">Лукьяновка Дорогожичи, Куреневка, Соломенка, Подол</td>
+					<td class="align_left">частями, подъеду, если договоримся</td>
+				</tr>
+								<tr class="">
+					<td>12:51</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'ODk2MDE1NQ==')">Показать</span>					</td>
+					<td class="align_left">Шевченоквский</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>12:51</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjgxOTk3Nw==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>12:50</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'Nzc5NjU1MA==')">Показать</span>					</td>
+					<td class="align_left">Осокорки</td>
+					<td class="align_left">Могу частями</td>
+				</tr>
+								<tr class="">
+					<td>12:50</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MTgyNzg0Ng==')">Показать</span>					</td>
+					<td class="align_left">центр печерск</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:49</td>
+					<td>25.5</td>
+					<td>101 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjU0MzU2Mw==')">Показать</span>					</td>
+					<td class="align_left">м позняки</td>
+					<td class="align_left">от 100 до 1000</td>
+				</tr>
+								<tr class="">
+					<td>12:49</td>
+					<td>25.5</td>
+					<td>8500 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'NjUxNjUwNg==')">Показать</span>					</td>
+					<td class="align_left">Центр, М. Льва Толстого, Театральная</td>
+					<td class="align_left">можно частями, офис, могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>12:48</td>
+					<td>25.7</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MDAwMDE2OA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями, могу подьехать</td>
+				</tr>
+								<tr class="">
+					<td>12:47</td>
+					<td>25</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTcwMjI4MA==')">Показать</span>					</td>
+					<td class="align_left">Нивки ( Можно по всему Киеву)</td>
+					<td class="align_left">Можно частями от 100 уе. </td>
+				</tr>
+								<tr class="">
+					<td>12:47</td>
+					<td>25.8</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTk3MzU0OA==')">Показать</span>					</td>
+					<td class="align_left">Оболонь . петровка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:47</td>
+					<td>25</td>
+					<td>17000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NTY0NTIyMw==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>12:44</td>
+					<td>26</td>
+					<td>15000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDAzMjQ0Mw==')">Показать</span>					</td>
+					<td class="align_left">Метро Лыбедская</td>
+					<td class="align_left">можна частинами, банк</td>
+				</tr>
+								<tr class="">
+					<td>12:44</td>
+					<td>25.7</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'MTM4NzIyNA==')">Показать</span>					</td>
+					<td class="align_left">м, Позняки трц Пирамида</td>
+					<td class="align_left">От 200</td>
+				</tr>
+								<tr class="">
+					<td>12:43</td>
+					<td>26.1</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjMxNTE2Mw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, Минская, Героев Днепра</td>
+					<td class="align_left">от 100 можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:43</td>
+					<td>26.2</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MjE1MzM1Nw==')">Показать</span>					</td>
+					<td class="align_left">Олимпийская</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>12:42</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'MzU4MDQ4NQ==')">Показать</span>					</td>
+					<td class="align_left">оболонь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:41</td>
+					<td>25.5</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDQ1MDEwNQ==')">Показать</span>					</td>
+					<td class="align_left">Центр, М. Льва Толстого</td>
+					<td class="align_left">можно частями от 300</td>
+				</tr>
+								<tr class="">
+					<td>12:40</td>
+					<td>25</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDYwMDMwNA==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, Петрівка, Нивки, Куренівка, Виноградар</td>
+					<td class="align_left">можу під'їхати, можна частинами, от 100</td>
+				</tr>
+								<tr class="">
+					<td>12:38</td>
+					<td>26.1</td>
+					<td>30000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NDMxNDEwOQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенка</td>
+					<td class="align_left">Частями могу подьехать</td>
+				</tr>
+								<tr class="">
+					<td>12:38</td>
+					<td>26</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NzI4MDY4OQ==')">Показать</span>					</td>
+					<td class="align_left">2 6, 0 0</td>
+					<td class="align_left">БАНК, можно частями от 500 долларов</td>
+				</tr>
+								<tr class="">
+					<td>12:38</td>
+					<td>25.5</td>
+					<td>3800 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NjA5NTkwNg==')">Показать</span>					</td>
+					<td class="align_left">Центр Толстого Печерск Дружбы Университет Золотые </td>
+					<td class="align_left">можно частями от 100, возможно подъеду</td>
+				</tr>
+								<tr class="">
+					<td>12:35</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjQ3Nzc2Mw==')">Показать</span>					</td>
+					<td class="align_left">Голосеевский</td>
+					<td class="align_left">целиком, могу подъехать, актуально пока есть на сайте</td>
+				</tr>
+								<tr class="">
+					<td>12:34</td>
+					<td>26</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'Nzc2MDUxMQ==')">Показать</span>					</td>
+					<td class="align_left">и. кудри, автовокзал</td>
+					<td class="align_left">можно частями, могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>12:29</td>
+					<td>25.5</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTc4MjAxMA==')">Показать</span>					</td>
+					<td class="align_left">Святошинский, Борщаговка, Голосеевский</td>
+					<td class="align_left">можно частями, могу подьехать</td>
+				</tr>
+								<tr class="">
+					<td>12:28</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzY4MTE3MA==')">Показать</span>					</td>
+					<td class="align_left">Dream Town</td>
+					<td class="align_left">Куплю, можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:27</td>
+					<td>26.2001</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NjY5MDcyMw==')">Показать</span>					</td>
+					<td class="align_left">Академ, Нивки, Буча, Ирпень</td>
+					<td class="align_left">можу під'їхати, можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>12:22</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'OTIxNjI0Ng==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка, Нивки, электронмаш</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:21</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'MDAyNTczNQ==')">Показать</span>					</td>
+					<td class="align_left">Дарница, Ленинградская площадь</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>12:19</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'OTkyMDk5Nw==')">Показать</span>					</td>
+					<td class="align_left">недалеко від метро</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>12:17</td>
+					<td>25.5</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzEwOTMwMA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можу під'їхати</td>
+				</tr>
+								<tr class="">
+					<td>12:14</td>
+					<td>26</td>
+					<td>900 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NTY2NTc0Mg==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>12:13</td>
+					<td>26</td>
+					<td>4500 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'OTI3NzM0Nw==')">Показать</span>					</td>
+					<td class="align_left">центр, льва толстого</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:13</td>
+					<td>25.55</td>
+					<td>10000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MDcyOTk2Ng==')">Показать</span>					</td>
+					<td class="align_left">центр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:11</td>
+					<td>26</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'MzM1NTU1NQ==')">Показать</span>					</td>
+					<td class="align_left">центр</td>
+					<td class="align_left">Могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>12:10</td>
+					<td>20</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MDI4NjYyMA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>12:10</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'Nzc4NTg5OQ==')">Показать</span>					</td>
+					<td class="align_left">Ленинградская площадь, м. Дарница, м. Левобережная</td>
+					<td class="align_left">можно частями от 200. Реально покупаю. Для себя</td>
+				</tr>
+								<tr class="">
+					<td>12:09</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'NDA2NTIwMQ==')">Показать</span>					</td>
+					<td class="align_left">авторынок Чапаевка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:06</td>
+					<td>26</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'OTI1ODExNw==')">Показать</span>					</td>
+					<td class="align_left">Отрадный, медгородок, нау</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>12:06</td>
+					<td>26</td>
+					<td>2700 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'OTgyNzY0OA==')">Показать</span>					</td>
+					<td class="align_left">желательно центр</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>12:05</td>
+					<td>26</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NzE0Mjc4Mg==')">Показать</span>					</td>
+					<td class="align_left">позняки</td>
+					<td class="align_left">Можно частями подъеду по городу</td>
+				</tr>
+								<tr class="">
+					<td>12:02</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDA4NzExMQ==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>12:00</td>
+					<td>25.5</td>
+					<td>1300 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MTI4ODk2NQ==')">Показать</span>					</td>
+					<td class="align_left">Троещина Билла</td>
+					<td class="align_left">можно частями от 200</td>
+				</tr>
+								<tr class="">
+					<td>12:00</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MTEyNjY5MQ==')">Показать</span>					</td>
+					<td class="align_left">у метро</td>
+					<td class="align_left">можу під'їхати можна частинами від 500</td>
+				</tr>
+								<tr class="">
+					<td>12:00</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTkwNDM4Mg==')">Показать</span>					</td>
+					<td class="align_left">виноградарь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:58</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NDM3NzQwMg==')">Показать</span>					</td>
+					<td class="align_left">Шулявка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:57</td>
+					<td>26</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MzEzNzgyOA==')">Показать</span>					</td>
+					<td class="align_left">петровка_подъеду</td>
+					<td class="align_left">можно частями от 200</td>
+				</tr>
+								<tr class="">
+					<td>11:54</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjQxNDAxMQ==')">Показать</span>					</td>
+					<td class="align_left">интернацыональная площадь</td>
+					<td class="align_left">себе</td>
+				</tr>
+								<tr class="">
+					<td>11:54</td>
+					<td>25</td>
+					<td>150 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTM3MDg4NA==')">Показать</span>					</td>
+					<td class="align_left">соломенский</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>11:51</td>
+					<td>22</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'Mzg2MjkzNQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">всю суму</td>
+				</tr>
+								<tr class="">
+					<td>11:50</td>
+					<td>25</td>
+					<td>20000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NDEyMjg0NQ==')">Показать</span>					</td>
+					<td class="align_left">печерск, любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:50</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDY3MDg4Nw==')">Показать</span>					</td>
+					<td class="align_left">Любой берег и район, готов купить от 100 долларов.</td>
+					<td class="align_left">У меня крупные купюры от 200 до 500 грн. </td>
+				</tr>
+								<tr class="">
+					<td>11:49</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'NDA2NTY2NQ==')">Показать</span>					</td>
+					<td class="align_left">соломенский</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:47</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'NTY4NjA2MQ==')">Показать</span>					</td>
+					<td class="align_left">Харковская, Позняки, Осокорки, Дарница, Левобережн</td>
+					<td class="align_left">Можно частями от 500, могу подехать</td>
+				</tr>
+								<tr class="">
+					<td>11:46</td>
+					<td>26.1</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTQ3OTkwMA==')">Показать</span>					</td>
+					<td class="align_left">могу подъехать</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:43</td>
+					<td>26</td>
+					<td>11000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'Nzg3OTUzOQ==')">Показать</span>					</td>
+					<td class="align_left">толстого центр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:42</td>
+					<td>26</td>
+					<td>6000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'ODczMDAzMA==')">Показать</span>					</td>
+					<td class="align_left">Голосеево, Центр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:40</td>
+					<td>26.05</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'NjY1MDY3NA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частямиot 3000</td>
+				</tr>
+								<tr class="">
+					<td>11:36</td>
+					<td>26.5</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MDE4MDcwNw==')">Показать</span>					</td>
+					<td class="align_left">м. Харьковская подьеду</td>
+					<td class="align_left">Проверка банкнот</td>
+				</tr>
+								<tr class="">
+					<td>11:34</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'NTkwMzA2Mg==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">могу подъехать от 1000</td>
+				</tr>
+								<tr class="">
+					<td>11:33</td>
+					<td>25.5</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'Nzk0OTU2NQ==')">Показать</span>					</td>
+					<td class="align_left">святошино борщаговка окружная пр победы</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:27</td>
+					<td>25</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjczNTEyMg==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>11:25</td>
+					<td>24.5</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDQ0MzU4MA==')">Показать</span>					</td>
+					<td class="align_left">позняки осокорки харківська</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>11:24</td>
+					<td>25</td>
+					<td>20000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTY5MTEzMA==')">Показать</span>					</td>
+					<td class="align_left">печерск, любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:24</td>
+					<td>25</td>
+					<td>5500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MTQ3ODQxNg==')">Показать</span>					</td>
+					<td class="align_left">Харьковский, Позняки</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>11:22</td>
+					<td>26</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'Mzc5NTQ3NQ==')">Показать</span>					</td>
+					<td class="align_left">Троещина</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>11:21</td>
+					<td>26.2</td>
+					<td>4500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'OTIyNzA0Nw==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:20</td>
+					<td>26</td>
+					<td>14000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'OTEwNjgxNg==')">Показать</span>					</td>
+					<td class="align_left">весь Киев</td>
+					<td class="align_left">можно частями от 5000</td>
+				</tr>
+								<tr class="">
+					<td>11:16</td>
+					<td>26.25</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'NTU1NzAxNw==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>11:16</td>
+					<td>24.4</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'MTAyMzkwOQ==')">Показать</span>					</td>
+					<td class="align_left">позняки осокорки</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>11:16</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjM4NTU5OQ==')">Показать</span>					</td>
+					<td class="align_left">центр, льва толстого, палац спорта</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>11:15</td>
+					<td>26.2</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NzU1NDAyMg==')">Показать</span>					</td>
+					<td class="align_left">Академгородок, Центр</td>
+					<td class="align_left">Подъеду</td>
+				</tr>
+								<tr class="">
+					<td>11:13</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'Nzc3MDU4NQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>11:11</td>
+					<td>23</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDA2Nzk5Mw==')">Показать</span>					</td>
+					<td class="align_left">Соломенский, Берестейская</td>
+					<td class="align_left">можно частями Читаем внимательно!!!!!! - ПОКУПКА!!!!!!!!!!!!! !!!!!!!!! 0 9 7 2 8 6 8 6 6 2, 0 9 3 1 6 7 5 2 7 2</td>
+				</tr>
+								<tr class="">
+					<td>11:10</td>
+					<td>24.5</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MTg0ODM2Nw==')">Показать</span>					</td>
+					<td class="align_left">позняки осокорки харківська</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>11:07</td>
+					<td>24.5</td>
+					<td>10000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MjM4OTM5OA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>11:06</td>
+					<td>26</td>
+					<td>950 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NDM5MDg3MQ==')">Показать</span>					</td>
+					<td class="align_left">Теремки</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>11:06</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'OTg3NDM0NA==')">Показать</span>					</td>
+					<td class="align_left">Центр Печерск Кловская</td>
+					<td class="align_left">можно частями от 100</td>
+				</tr>
+								<tr class="">
+					<td>11:06</td>
+					<td>25</td>
+					<td>15000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MTg3MzM0Ng==')">Показать</span>					</td>
+					<td class="align_left">центр</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>11:05</td>
+					<td>26</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NDUwNDM4Ng==')">Показать</span>					</td>
+					<td class="align_left">правый берег</td>
+					<td class="align_left">можно частями от 500</td>
+				</tr>
+								<tr class="">
+					<td>11:04</td>
+					<td>25.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'NzYxOTk5MQ==')">Показать</span>					</td>
+					<td class="align_left">Вишневое</td>
+					<td class="align_left">можно частями от 50</td>
+				</tr>
+								<tr class="">
+					<td>11:01</td>
+					<td>25.5</td>
+					<td>600 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTAxNTc2MQ==')">Показать</span>					</td>
+					<td class="align_left">Нивки, Лукьяновка, </td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>10:57</td>
+					<td>25.4</td>
+					<td>4000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTYwNDMxMw==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:56</td>
+					<td>26</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'ODExNTg2Mg==')">Показать</span>					</td>
+					<td class="align_left">Дорогожичи, Севастопольская площадь</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:52</td>
+					<td>26.5</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'OTg2OTM1NA==')">Показать</span>					</td>
+					<td class="align_left">Любой район подъеду к Вам</td>
+					<td class="align_left">От 30000 дол с проверкой денег в банке или на детекторе!!!2 6. 5 0 покупаю. Желательно всю сумму</td>
+				</tr>
+								<tr class="">
+					<td>10:51</td>
+					<td>25.25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MDU1MjcyOA==')">Показать</span>					</td>
+					<td class="align_left">Океан Плаза, Демеевка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:49</td>
+					<td>29</td>
+					<td>8000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MDczNDE2MQ==')">Показать</span>					</td>
+					<td class="align_left">Продаю доллар==продаю доллар==продаю</td>
+					<td class="align_left">Продаю доллар, 38(50)8357701также торг по курсу, курс 29 нужна гривна, ребята звоните 8000 тис у. е я думаю хорошая сумма, обязательно проверка в банке</td>
+				</tr>
+								<tr class="">
+					<td>10:46</td>
+					<td>25</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'NDc0MjY3NQ==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">можно частями могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:46</td>
+					<td>25.5</td>
+					<td>4000 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'MTE1MzI0NA==')">Показать</span>					</td>
+					<td class="align_left">оболонь , центр</td>
+					<td class="align_left">могу подъехать, можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:45</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjQzOTE2MQ==')">Показать</span>					</td>
+					<td class="align_left">Березняки</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>10:44</td>
+					<td>25</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MzgyNDg0OA==')">Показать</span>					</td>
+					<td class="align_left">подъеду по Киеву</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:44</td>
+					<td>25.5</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'OTQ3OTA0Nw==')">Показать</span>					</td>
+					<td class="align_left">Харьковский-Позняки, Борисполь. </td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:43</td>
+					<td>26</td>
+					<td>3700 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'NTExOTkyNQ==')">Показать</span>					</td>
+					<td class="align_left">правый берег</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:41</td>
+					<td>25.5</td>
+					<td>2600 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTAyODIwMg==')">Показать</span>					</td>
+					<td class="align_left">цирк, м Університет, ун-г Україна, пл Перемоги</td>
+					<td class="align_left">від 100</td>
+				</tr>
+								<tr class="">
+					<td>10:40</td>
+					<td>22</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MjQzMTE4Mw==')">Показать</span>					</td>
+					<td class="align_left">Левый берег</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:36</td>
+					<td>25.5</td>
+					<td>15000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MTE5MTExMQ==')">Показать</span>					</td>
+					<td class="align_left">бориспольская</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>10:24</td>
+					<td>25.5</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MzAyMjYzOA==')">Показать</span>					</td>
+					<td class="align_left">борисполь харьковский</td>
+					<td class="align_left">борисполь</td>
+				</tr>
+								<tr class="">
+					<td>10:24</td>
+					<td>26.2</td>
+					<td>30000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'OTY3MjcyMw==')">Показать</span>					</td>
+					<td class="align_left">весь Киев</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:22</td>
+					<td>25.5</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'MTE1OTg3MQ==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка. Красная линия метро</td>
+					<td class="align_left">Святослав</td>
+				</tr>
+								<tr class="">
+					<td>10:21</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'NTU2OTU4OA==')">Показать</span>					</td>
+					<td class="align_left">печерск</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:20</td>
+					<td>25.5</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjM3Nzc3OA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>10:12</td>
+					<td>25</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MjU4MzMwMA==')">Показать</span>					</td>
+					<td class="align_left">Виноградарь, Оболонь, Куренёвка. </td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>10:12</td>
+					<td>24</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTg1MzMzMg==')">Показать</span>					</td>
+					<td class="align_left">Окружная, билла, ашан, обойный рынок</td>
+					<td class="align_left">! с р о ч н о !</td>
+				</tr>
+								<tr class="">
+					<td>10:09</td>
+					<td>26</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDk3MTk2NQ==')">Показать</span>					</td>
+					<td class="align_left">Левый берег</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:08</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'ODg2OTg0OA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>10:01</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'Mjk2Nzc1MA==')">Показать</span>					</td>
+					<td class="align_left">Шевченковский</td>
+					<td class="align_left">Ул татарская</td>
+				</tr>
+								<tr class="">
+					<td>10:00</td>
+					<td>20</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'MDA4MjMwMA==')">Показать</span>					</td>
+					<td class="align_left">Любой</td>
+					<td class="align_left">Реальный курс USD. От 5 тыс. </td>
+				</tr>
+								<tr class="">
+					<td>09:58</td>
+					<td>24.4</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'Mjk5MDMyMg==')">Показать</span>					</td>
+					<td class="align_left">Любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>09:57</td>
+					<td>26</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDM1NDk5MQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>09:57</td>
+					<td>25</td>
+					<td>900 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'Mzg0MTQzNA==')">Показать</span>					</td>
+					<td class="align_left">Весь киев подьеду если нужно</td>
+					<td class="align_left">можно частями, звоните до 2 ночи и с 6:30 утра</td>
+				</tr>
+								<tr class="">
+					<td>09:56</td>
+					<td>25</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'NjkxMzMzMw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>09:55</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'MzYzMjUxMQ==')">Показать</span>					</td>
+					<td class="align_left">жуляни</td>
+					<td class="align_left">всю суму</td>
+				</tr>
+								<tr class="">
+					<td>09:48</td>
+					<td>23</td>
+					<td>4500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjMxMzUzNA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">реальное предложение</td>
+				</tr>
+								<tr class="">
+					<td>09:47</td>
+					<td>24.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjI0MjkwNQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>09:44</td>
+					<td>25</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'ODY0Nzg4Nw==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">нужны наличные на отпуск в др. стране</td>
+				</tr>
+								<tr class="">
+					<td>09:44</td>
+					<td>0.415</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDY3MzMyMg==')">Показать</span>					</td>
+					<td class="align_left">правый берег</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>09:44</td>
+					<td>24</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'Nzk5NzI1NA==')">Показать</span>					</td>
+					<td class="align_left">нивки</td>
+					<td class="align_left">себе</td>
+				</tr>
+								<tr class="">
+					<td>09:40</td>
+					<td>26</td>
+					<td>21000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'OTExOTUyMA==')">Показать</span>					</td>
+					<td class="align_left">О б о л о н ь от 1000</td>
+					<td class="align_left">можно частями от 1000, по О Б О Л О Н Е могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>09:24</td>
+					<td>25</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NDM5MDgyNg==')">Показать</span>					</td>
+					<td class="align_left">м. Теремки</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>09:22</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzQwNTQ0NA==')">Показать</span>					</td>
+					<td class="align_left">Осокорки позняки</td>
+					<td class="align_left">Можно по 100. Могу подехать</td>
+				</tr>
+								<tr class="">
+					<td>09:19</td>
+					<td>24</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MjgyOTk2MQ==')">Показать</span>					</td>
+					<td class="align_left">Центр (Почтовая, Печерск)</td>
+					<td class="align_left">Можно частями, лучше - всю сразу. Проверка купюр в банке</td>
+				</tr>
+								<tr class="">
+					<td>09:18</td>
+					<td>24</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MTI5NTcwNg==')">Показать</span>					</td>
+					<td class="align_left">Харьковский</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>09:17</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NDA1ODU2MA==')">Показать</span>					</td>
+					<td class="align_left">м. дарниця</td>
+					<td class="align_left">можна частями</td>
+				</tr>
+								<tr class="">
+					<td>09:16</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTM3MDY2Mg==')">Показать</span>					</td>
+					<td class="align_left">Дружбы Народов</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>09:15</td>
+					<td>25</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MzIzNjc4Nw==')">Показать</span>					</td>
+					<td class="align_left">троещина</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>09:12</td>
+					<td>25</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MDg2MTgxOQ==')">Показать</span>					</td>
+					<td class="align_left">Теремки Васильковская</td>
+					<td class="align_left">Можно частями</td>
+				</tr>
+								<tr class="">
+					<td>09:12</td>
+					<td>25</td>
+					<td>4000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NTg1NDUwMg==')">Показать</span>					</td>
+					<td class="align_left">Нивки</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>09:11</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'NDI0OTI1OA==')">Показать</span>					</td>
+					<td class="align_left">Академ Окружная</td>
+					<td class="align_left">могу подъехать от 100</td>
+				</tr>
+								<tr class="">
+					<td>09:04</td>
+					<td>25</td>
+					<td>1700 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MTEzODc4MA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка Святошинский Житомирская Академ Окружна</td>
+					<td class="align_left">могу подъехать можно частями от 100</td>
+				</tr>
+								<tr class="">
+					<td>09:01</td>
+					<td>24.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjMwODYwMA==')">Показать</span>					</td>
+					<td class="align_left">Pechersky</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>08:57</td>
+					<td>1.12</td>
+					<td>7000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'Nzc3NTY1Nw==')">Показать</span>					</td>
+					<td class="align_left">Обменяю мои евро на ваши доллары 1, 12</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>08:57</td>
+					<td>24</td>
+					<td>1100 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'NzkxMDQ0Mw==')">Показать</span>					</td>
+					<td class="align_left">лесная</td>
+					<td class="align_left">можу під'їхати</td>
+				</tr>
+								<tr class="">
+					<td>08:51</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MzIxNzY3OA==')">Показать</span>					</td>
+					<td class="align_left">Осокорки. ул Урловская. </td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>08:47</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NjcyNTE1Ng==')">Показать</span>					</td>
+					<td class="align_left">Теремки</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>08:44</td>
+					<td>25</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'MTAwMDA4Mg==')">Показать</span>					</td>
+					<td class="align_left">центр</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>08:43</td>
+					<td>24.5</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'MzM1ODA3Nw==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">Могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>08:42</td>
+					<td>25</td>
+					<td>5200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MjE4NDI0OA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>08:19</td>
+					<td>1.12</td>
+					<td>7000 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'NzExNTczNg==')">Показать</span>					</td>
+					<td class="align_left">Обменяю мои евро на ваши доллары 1, 12</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>08:13</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MjYwNTI4NA==')">Показать</span>					</td>
+					<td class="align_left">соломенка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>08:08</td>
+					<td>24</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'NjgyNDA1MQ==')">Показать</span>					</td>
+					<td class="align_left">Бориспольская</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>08:04</td>
+					<td>25</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'OTk5NzA3MQ==')">Показать</span>					</td>
+					<td class="align_left">Академмістечко</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="">
+					<td>07:58</td>
+					<td>25</td>
+					<td>37000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'OTQ1MjQxNg==')">Показать</span>					</td>
+					<td class="align_left">м. лесная</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>07:48</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MjQxMjc3Nw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь. петровка, подол</td>
+					<td class="align_left">можна частинами\могу подъехать</td>
+				</tr>
+								<tr class="">
+					<td>07:44</td>
+					<td>26.2</td>
+					<td>5000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTYxMjMxNA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>07:13</td>
+					<td>25</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MzI0NTI5OA==')">Показать</span>					</td>
+					<td class="align_left">Шулявка, Политех</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="">
+					<td>07:12</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MDQyMDE4OA==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">караваевы дачи, индустриальный мост</td>
+				</tr>
+								<tr class="">
+					<td>06:15</td>
+					<td>24</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 068 </span><span class="action" onclick="showPhone(this, 'ODk5MTcyNQ==')">Показать</span>					</td>
+					<td class="align_left">Любой</td>
+					<td class="align_left">Можно частями. Могу подъехать. Всех женщин поздравляю с праздником весны, с наступающим днём 8 марта</td>
+				</tr>
+								<tr class="">
+					<td>06:04</td>
+					<td>26</td>
+					<td>10000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MDYxODYxNw==')">Показать</span>					</td>
+					<td class="align_left">Шулявка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>05:50</td>
+					<td>22</td>
+					<td>550 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NDcwNzUxMQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенский, Шулявка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>05:28</td>
+					<td>24.7</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NzQxMzkxNQ==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>04:01</td>
+					<td>25</td>
+					<td>700 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'ODU4NTM2OA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>03:34</td>
+					<td>24</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTI0NzI3Mw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, цент, подьеду</td>
+					<td class="align_left">Всю сумму или частями</td>
+				</tr>
+								<tr class="">
+					<td>03:21</td>
+					<td>24</td>
+					<td>14000 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'Mjc3Njc5NA==')">Показать</span>					</td>
+					<td class="align_left">По необходимости подъеду</td>
+					<td class="align_left">можно частями, во избежание недоразумений обмен в банке или офисе</td>
+				</tr>
+								<tr class="">
+					<td>03:10</td>
+					<td>25</td>
+					<td>600 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDU1MDkzNA==')">Показать</span>					</td>
+					<td class="align_left">позняки</td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="">
+					<td>02:44</td>
+					<td>24</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'Mzc1OTMzOA==')">Показать</span>					</td>
+					<td class="align_left">Троещина, Лесной, оболонь</td>
+					<td class="align_left">целиком, подъеду, после 10 утра</td>
+				</tr>
+								<tr class="">
+					<td>01:21</td>
+					<td>24</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTg4ODkwMA==')">Показать</span>					</td>
+					<td class="align_left">Черниговская, Лесная, рынок &quot;Юность&quot;</td>
+					<td class="align_left">всю суму</td>
+				</tr>
+								<tr class="">
+					<td>00:38</td>
+					<td>24.5</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MDUxNDU1MA==')">Показать</span>					</td>
+					<td class="align_left">Шулявка-КПИ</td>
+					<td class="align_left">можно частями утром с 8. 30ч</td>
+				</tr>
+								<tr class="">
+					<td>00:26</td>
+					<td>22</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MDEwMDA1Ng==')">Показать</span>					</td>
+					<td class="align_left">Obolon, centr, </td>
+					<td class="align_left">целиком, звонить с 9 утра</td>
+				</tr>
+								<tr class="">
+					<td>00:23</td>
+					<td>25</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'OTYyNDM0Mw==')">Показать</span>					</td>
+					<td class="align_left">м. Лесная Бровары</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="">
+					<td>00:20</td>
+					<td>23</td>
+					<td>600 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MzY1MTA5MA==')">Показать</span>					</td>
+					<td class="align_left">Дарницкий м. Харьковская</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>13:08</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MDgwMjg4NA==')">Показать</span>					</td>
+					<td class="align_left">Центр, могу подъехать</td>
+					<td class="align_left">всю суму куплю срочно</td>
+				</tr>
+								<tr class="invalid">
+					<td>13:02</td>
+					<td>26.15</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzgyNzkxMg==')">Показать</span>					</td>
+					<td class="align_left">Льва Толстого, Саксаганского</td>
+					<td class="align_left">от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>13:00</td>
+					<td>25.7</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTgxMzM5NQ==')">Показать</span>					</td>
+					<td class="align_left">нивки</td>
+					<td class="align_left"></td>
+				</tr>
+								<tr class="invalid">
+					<td>12:57</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MDgwMjg4NA==')">Показать</span>					</td>
+					<td class="align_left">Ст. м Дружбы Народов, Печерская</td>
+					<td class="align_left">всю суму куплю</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:55</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjE2NjIxMQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенская площадь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:53</td>
+					<td>25.5</td>
+					<td>2100 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'ODMzMDY1Ng==')">Показать</span>					</td>
+					<td class="align_left">Харьковский Позняки Осокорки Бориспольская</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:52</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NjkxMzc5Nw==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская площ чоколовка соломенка</td>
+					<td class="align_left">Соломенка Севаст площ Чоколовка Кардачи можно больше можно частями от100 подьеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:52</td>
+					<td>26</td>
+					<td>100 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MzAwMDQ0MA==')">Показать</span>					</td>
+					<td class="align_left">борщаговка</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:51</td>
+					<td>25.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'Nzg1OTI5Mg==')">Показать</span>					</td>
+					<td class="align_left">м. Харьковская, Позняки, Лен-кая п-дь, Харьковское</td>
+					<td class="align_left">куплю от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:50</td>
+					<td>25.55</td>
+					<td>2700 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">левый берег м . позняки. м харьковская</td>
+					<td class="align_left">можно частями могу подехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:49</td>
+					<td>26</td>
+					<td>15000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'ODcyNDEyMw==')">Показать</span>					</td>
+					<td class="align_left">Н и в к и</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:47</td>
+					<td>25.9</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzY2MjUyNQ==')">Показать</span>					</td>
+					<td class="align_left">Дворец спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:44</td>
+					<td>25.3</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MjU4Mjk3Mg==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать, срочно</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:42</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE3OTg4NQ==')">Показать</span>					</td>
+					<td class="align_left">метро Дворец Спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:41</td>
+					<td>26</td>
+					<td>12000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDQ3NjIyNg==')">Показать</span>					</td>
+					<td class="align_left">толстого центр метроград</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:41</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NjkxMzc5Nw==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская площ чоколовка соломенка</td>
+					<td class="align_left">Соломенка Севаст площ Чоколовка Кардачи можно больше можно частями от100 подьеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:40</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MzAxNTIyMA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать Целиком</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:39</td>
+					<td>25.7</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTE3MDcxOA==')">Показать</span>					</td>
+					<td class="align_left">Любой, подъеду</td>
+					<td class="align_left">можно частями, торг</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:38</td>
+					<td>26</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzgyNzkxMg==')">Показать</span>					</td>
+					<td class="align_left">Льва Толстого, Саксаганского</td>
+					<td class="align_left">от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:38</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MDgwMjg4NA==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">всю суму куплю</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:37</td>
+					<td>26</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTc3MTMwMg==')">Показать</span>					</td>
+					<td class="align_left">ниывки житомирськая</td>
+					<td class="align_left">могу подъехать можно частями от100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:35</td>
+					<td>26.2</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'NjQ2NzEzNg==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:35</td>
+					<td>26.5</td>
+					<td>1300 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'MzAwMDQ0MA==')">Показать</span>					</td>
+					<td class="align_left">святошино, борщаговка</td>
+					<td class="align_left">могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:33</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTA4MDE0Mg==')">Показать</span>					</td>
+					<td class="align_left">соломенский. центр</td>
+					<td class="align_left">можно частями от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:33</td>
+					<td>25.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'Nzg1OTI5Mg==')">Показать</span>					</td>
+					<td class="align_left">м. Харьковская, Позняки, Лен-кая п-дь, Харьковское</td>
+					<td class="align_left">куплю от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:30</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE3OTg4NQ==')">Показать</span>					</td>
+					<td class="align_left">метро Дворец Спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:29</td>
+					<td>25.5</td>
+					<td>101 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjU0MzU2Mw==')">Показать</span>					</td>
+					<td class="align_left">м позняки</td>
+					<td class="align_left">от 100 до 1000</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:29</td>
+					<td>25.55</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">левый берег м . позняки. м харьковская</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:29</td>
+					<td>26.2</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTc5MjA5NQ==')">Показать</span>					</td>
+					<td class="align_left">Лівобережна</td>
+					<td class="align_left">Частинами</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:28</td>
+					<td>26</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjUzNzMzMg==')">Показать</span>					</td>
+					<td class="align_left">Оболонь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:28</td>
+					<td>26</td>
+					<td>25000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'ODcyNDEyMw==')">Показать</span>					</td>
+					<td class="align_left">Н и в к и</td>
+					<td class="align_left">с а л ю т н а я</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:28</td>
+					<td>25.6</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 099 </span><span class="action" onclick="showPhone(this, 'MTM4NzIyNA==')">Показать</span>					</td>
+					<td class="align_left">м, Позняки трц Пирамида</td>
+					<td class="align_left">От 200</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:26</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'NTI5MDQyOA==')">Показать</span>					</td>
+					<td class="align_left">шулявка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:26</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MDgwMjg4NA==')">Показать</span>					</td>
+					<td class="align_left">Центр, могу подъехать</td>
+					<td class="align_left">всю суму куплю</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:26</td>
+					<td>26</td>
+					<td>7000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjM2NTE0Ng==')">Показать</span>					</td>
+					<td class="align_left">Академгородок Святошина</td>
+					<td class="align_left">Срочно!от 1000 долларов!!куплю!!</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:26</td>
+					<td>25.7</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTgxMzM5NQ==')">Показать</span>					</td>
+					<td class="align_left">академ. </td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:22</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjE1NTUyNg==')">Показать</span>					</td>
+					<td class="align_left">севастопольская площадь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:22</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MTgyNzg0Ng==')">Показать</span>					</td>
+					<td class="align_left">центр печерск</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:20</td>
+					<td>25.7</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NTQ4MDA4Nw==')">Показать</span>					</td>
+					<td class="align_left">Могу подъехать</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:19</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE3OTg4NQ==')">Показать</span>					</td>
+					<td class="align_left">метро Дворец Спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:19</td>
+					<td>26.1</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjMxNTE2Mw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, Минская</td>
+					<td class="align_left">от 100 можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:18</td>
+					<td>26</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjE2NjIxMQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенская площадь</td>
+					<td class="align_left">можно частями от 200</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:18</td>
+					<td>26.1</td>
+					<td>30000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NDMxNDEwOQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенка</td>
+					<td class="align_left">можно частями могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:17</td>
+					<td>26</td>
+					<td>50 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzA0NDkxNg==')">Показать</span>					</td>
+					<td class="align_left">Куреневка, Оболонь</td>
+					<td class="align_left">Могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:17</td>
+					<td>25.55</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">левый берег м . позняки. м харьковская</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:17</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'Nzc5NjU1MA==')">Показать</span>					</td>
+					<td class="align_left">Осокорки</td>
+					<td class="align_left">Могу частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:15</td>
+					<td>25.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'Nzg1OTI5Mg==')">Показать</span>					</td>
+					<td class="align_left">м. Харьковская, Позняки, Лен-кая п-дь, Харьковское</td>
+					<td class="align_left">куплю от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:15</td>
+					<td>25.7</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTE3MDcxOA==')">Показать</span>					</td>
+					<td class="align_left">Любой, подъеду</td>
+					<td class="align_left">можно частями, торг</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:13</td>
+					<td>25.8</td>
+					<td>3800 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTc3MTMwMg==')">Показать</span>					</td>
+					<td class="align_left">оболонь центр печерск</td>
+					<td class="align_left">могу подъехать можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:13</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NzY0NDU0Mw==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">можно частями От 300</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:13</td>
+					<td>27</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MDU4MTE5Mw==')">Показать</span>					</td>
+					<td class="align_left">кар дачи</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:12</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzY4MTE3MA==')">Показать</span>					</td>
+					<td class="align_left">Dream Town</td>
+					<td class="align_left">Куплю, можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:12</td>
+					<td>26</td>
+					<td>12000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDQ3NjIyNg==')">Показать</span>					</td>
+					<td class="align_left">толстого метроград центр</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:11</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTAwNDY4OA==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:10</td>
+					<td>26</td>
+					<td>4700 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MzI0NDcwMg==')">Показать</span>					</td>
+					<td class="align_left">Цетр. пл. л. толстого дв. спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:08</td>
+					<td>25.5</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MzMxODYzNQ==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка Караван</td>
+					<td class="align_left">могу подъехать, можно частями от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:05</td>
+					<td>24.5</td>
+					<td>1200 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'OTExMDczMg==')">Показать</span>					</td>
+					<td class="align_left">Ocean Plaza</td>
+					<td class="align_left">можно частями, от 300 подъеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:03</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NzU4MjEzMQ==')">Показать</span>					</td>
+					<td class="align_left">М. теремки магелан</td>
+					<td class="align_left">от 100</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:02</td>
+					<td>24.5</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'Njc1NjUxMQ==')">Показать</span>					</td>
+					<td class="align_left">Окружная</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:02</td>
+					<td>25.8</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MTk3MzU0OA==')">Показать</span>					</td>
+					<td class="align_left">Оболонь . петровка</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:01</td>
+					<td>26</td>
+					<td>700 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NTQ4MDA4Nw==')">Показать</span>					</td>
+					<td class="align_left">Могу подъехать</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:01</td>
+					<td>25.5</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 050 </span><span class="action" onclick="showPhone(this, 'MTQ3NzgxOA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка, Кольцова</td>
+					<td class="align_left">могу подъехать, можно частями от 50</td>
+				</tr>
+								<tr class="invalid">
+					<td>12:00</td>
+					<td>26</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjE2NjIxMQ==')">Показать</span>					</td>
+					<td class="align_left">Соломенская площадь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:59</td>
+					<td>26</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'NjY4NDI1MQ==')">Показать</span>					</td>
+					<td class="align_left"></td>
+					<td class="align_left">целиком</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:59</td>
+					<td>25.55</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">левый берег м . позняки. м харьковская</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:59</td>
+					<td>26</td>
+					<td>1100 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'OTE3OTg4NQ==')">Показать</span>					</td>
+					<td class="align_left">метро Дворец Спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:58</td>
+					<td>25.8</td>
+					<td>3800 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NTc3MTMwMg==')">Показать</span>					</td>
+					<td class="align_left">оболонь / минская / куреневка</td>
+					<td class="align_left">могу подъехать можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:58</td>
+					<td>26</td>
+					<td>1000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjMxNTE2Mw==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, Минская, Героев Днепра</td>
+					<td class="align_left">от 100 можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:58</td>
+					<td>25.7</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MTgyNzg0Ng==')">Показать</span>					</td>
+					<td class="align_left">центр печерск</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:58</td>
+					<td>26</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTYyNjM0MA==')">Показать</span>					</td>
+					<td class="align_left">Борщаговка</td>
+					<td class="align_left">могу подъехать, срочно</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:57</td>
+					<td>25</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MjQ3MjEyNw==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:56</td>
+					<td>26</td>
+					<td>50 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NzA0NDkxNg==')">Показать</span>					</td>
+					<td class="align_left">Куреневка, Оболонь</td>
+					<td class="align_left">Могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:54</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 098 </span><span class="action" onclick="showPhone(this, 'OTkyMDk5Nw==')">Показать</span>					</td>
+					<td class="align_left">біля ст метро любий</td>
+					<td class="align_left">можу під'їхати. можна частинами</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:53</td>
+					<td>26</td>
+					<td>1500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MTI4NTMyOA==')">Показать</span>					</td>
+					<td class="align_left">Л е в о б е р е ж н а я левый берег</td>
+					<td class="align_left">можно частями могу подъехать</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:52</td>
+					<td>26</td>
+					<td>50000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NzI4MDY4OQ==')">Показать</span>					</td>
+					<td class="align_left">2 6, 0 0</td>
+					<td class="align_left">БАНК, можно частями от 1000 долларов</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:52</td>
+					<td>25.7</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'NzY2MjUyNQ==')">Показать</span>					</td>
+					<td class="align_left">Дворец спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:51</td>
+					<td>25.8</td>
+					<td>1800 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjM5MzkzNg==')">Показать</span>					</td>
+					<td class="align_left">Левобережная</td>
+					<td class="align_left">Куплю от 1000 долларов</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:51</td>
+					<td>26</td>
+					<td>4700 $</td>
+					<td class="align_left">
+						<span>+38 095 </span><span class="action" onclick="showPhone(this, 'MzI0NDcwMg==')">Показать</span>					</td>
+					<td class="align_left">Цетр. пл. л. толстого дв. спорта</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:49</td>
+					<td>25.7</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTE3MDcxOA==')">Показать</span>					</td>
+					<td class="align_left">Любой, подъеу</td>
+					<td class="align_left">можно частями, торг</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:48</td>
+					<td>26</td>
+					<td>12000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NDQ3NjIyNg==')">Показать</span>					</td>
+					<td class="align_left">Толстого Центр Метроград</td>
+					<td class="align_left">можно частями от500</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:47</td>
+					<td>25.5</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MzAxNTIyMA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать целиком</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:46</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NjUzNzMzMg==')">Показать</span>					</td>
+					<td class="align_left">Оболонь, героев днепра</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:45</td>
+					<td>25.8</td>
+					<td>500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'OTI1ODExNw==')">Показать</span>					</td>
+					<td class="align_left">Отрадный, медгородок, нау</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:44</td>
+					<td>25</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NTAwNDY4OA==')">Показать</span>					</td>
+					<td class="align_left">Академгородок</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:43</td>
+					<td>25.5</td>
+					<td>2100 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'ODMzMDY1Ng==')">Показать</span>					</td>
+					<td class="align_left">Харьковский Позняки Осокорки Бориспольская</td>
+					<td class="align_left">частями, подъеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:43</td>
+					<td>25.5</td>
+					<td>101 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjU0MzU2Mw==')">Показать</span>					</td>
+					<td class="align_left">м позняки</td>
+					<td class="align_left">от 100 до 1000</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:42</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MzA4MDA0OA==')">Показать</span>					</td>
+					<td class="align_left">Центр</td>
+					<td class="align_left">можно частями от 300 долларов</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:41</td>
+					<td>25.5</td>
+					<td>300 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'NjE1NTUyNg==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская площадь</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:40</td>
+					<td>25.55</td>
+					<td>2500 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NTU0NzY3Ng==')">Показать</span>					</td>
+					<td class="align_left">П о з н я к и , х а р ь к о в с к и й</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:38</td>
+					<td>25.7</td>
+					<td>800 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'NTQ4MDA4Nw==')">Показать</span>					</td>
+					<td class="align_left">Могу подъехать</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:38</td>
+					<td>26.1</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 066 </span><span class="action" onclick="showPhone(this, 'MTEyNjY5MQ==')">Показать</span>					</td>
+					<td class="align_left">біля ст метро любий</td>
+					<td class="align_left">можна частинами</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:36</td>
+					<td>25.1</td>
+					<td>3500 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'NDQ1MDEwNQ==')">Показать</span>					</td>
+					<td class="align_left">Центр Печерск</td>
+					<td class="align_left">можно частями, от 500, подъеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:36</td>
+					<td>25</td>
+					<td>400 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'MTgyNzg0Ng==')">Показать</span>					</td>
+					<td class="align_left">центр печерск</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:36</td>
+					<td>24.9</td>
+					<td>20000 $</td>
+					<td class="align_left">
+						<span>+38 097 </span><span class="action" onclick="showPhone(this, 'NDEyMjg0NQ==')">Показать</span>					</td>
+					<td class="align_left">печерск, любой</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:35</td>
+					<td>25</td>
+					<td>200 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'NjkxMzc5Nw==')">Показать</span>					</td>
+					<td class="align_left">Севастопольская площ чоколовка соломенка</td>
+					<td class="align_left">Соломенка Севаст площ Чоколовка Кардачи можно больше можно частями от100 подьеду</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:34</td>
+					<td>26</td>
+					<td>3000 $</td>
+					<td class="align_left">
+						<span>+38 093 </span><span class="action" onclick="showPhone(this, 'MzEzNzgyOA==')">Показать</span>					</td>
+					<td class="align_left">петровка_ подъеду</td>
+					<td class="align_left">от 200</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:34</td>
+					<td>25</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 096 </span><span class="action" onclick="showPhone(this, 'OTExNzI1OA==')">Показать</span>					</td>
+					<td class="align_left">Троещино, Драйзера</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:34</td>
+					<td>25.5</td>
+					<td>2000 $</td>
+					<td class="align_left">
+						<span>+38 063 </span><span class="action" onclick="showPhone(this, 'MzAxNTIyMA==')">Показать</span>					</td>
+					<td class="align_left">любой</td>
+					<td class="align_left">могу подъехать Целиком</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:33</td>
+					<td>25.7</td>
+					<td>1900 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTE3MDcxOA==')">Показать</span>					</td>
+					<td class="align_left">Любой, подъеду</td>
+					<td class="align_left">можно частями, торг</td>
+				</tr>
+								<tr class="invalid">
+					<td>11:32</td>
+					<td>25.5</td>
+					<td>350 $</td>
+					<td class="align_left">
+						<span>+38 067 </span><span class="action" onclick="showPhone(this, 'OTM3MDg4NA==')">Показать</span>					</td>
+					<td class="align_left">соломенский</td>
+					<td class="align_left">можно частями</td>
+				</tr>
+				
+		</table> 
+
+		<div class="pager clear" id="pager">
+		</div>	
+	</div>
+</div>
+<!-- }}} CENTER -->
+</div>
+</div>
+</div>
+<!-- FOOTER {{{ -->
+<div class="clear Branding_footer">
+<div class="clear Footer">
+
+<div class="block_gamma_gradient"><div class="tl"></div><div class="tr"></div><div class="br"></div><div class="bl"></div><div class="content clear">
+<form action="http://search.i.ua/">
+<div class="Right">
+<a href="http://mediatraffic.com.ua/?parentID=1">
+<small>Разместить здесь рекламу</small></a></div>
+<input type="text" class="width_50" name="q" value="Курсы валют" onfocus="i_removeDefVal(this);" /> <input type="submit" value="Искать"/>
+</form>
+<dl id="bottom_finance" class="reklama"></dl><script type="text/javascript">
+<!--
+function show_bottom_finance()
+{
+	MTr.options.user = 0;
+	(new MTr('bottom_finance',{site:1,format:0,number:6,tag:'DD'})).drawItem=function(row, click, item){
+		item.className='reklama';
+		item.innerHTML = '<a class="mt_ali" onclick="' + click + '" target="_blank"><span class="mt_aim" style="background-image: url(' + row.img + ')"></span>'+
+		row.text + '<br />'+ row.text1 + '</a>';
+	}
+}
+if (typeof MTr=="undefined") {
+  if (typeof Autoload == "undefined")
+    document.write('<scr'+'ipt src="http://i.mediatraffic.com.ua/js/uho/mt20.js"></scr'+'ipt><scr'+'ipt>show_bottom_finance();</scr'+'ipt>');
+  else
+    Autoload.loadJS('http://i.mediatraffic.com.ua/js/uho/mt20.js', show_bottom_finance);
+} else
+	show_bottom_finance();
+//-->
+</script>
+<div class="Cols_20_80 clear">
+	<div class="Left">
+				<a href="http://radio.i.ua/" class="radio_32"><i></i>Радио</a>
+	</div>
+	<div class="Right">
+		<ul class="clear site_sections" id="site_section">
+<li><a href="http://mail.i.ua/" class="mail_16"><i></i>Почта</a></li> <li><a href="http://job.i.ua/" class="job_16"><i></i>Работа</a></li> <li><a href="http://search.i.ua/" class="search_16"><i></i>Поиск</a></li> <li><a href="http://soft.i.ua/" class="soft_16"><i></i>Программы</a></li> <li><a href="http://catalog.i.ua/" class="catalog_16"><i></i>Каталог</a></li> <li><a href="http://links.i.ua/" class="links_16"><i></i>Закладки</a></li> <li><a href="http://rss.i.ua/" class="rss_16"><i></i>RSS</a></li> <li><a href="http://board.i.ua/" class="board_16"><i></i>Объявления</a></li> <li><a href="http://weather.i.ua/" class="weather_16"><i></i>Погода</a></li> <li><a href="http://goroskop.i.ua/" class="goroskop_16"><i></i>Гороскоп</a></li> <li><a href="http://tv.i.ua/" class="tv_16"><i></i>Телепрограмма</a></li> <li><a href="http://finance.i.ua/" class="finance_16"><i></i>Курсы валют</a></li> <li><a href="http://shop.i.ua/" class="shop_16"><i></i>Магазины</a></li> <li><a href="http://perevod.i.ua/" class="perevod_16"><i></i>Переводчик</a></li> <li><a href="http://narod.i.ua/" class="narod_16"><i></i>Народ</a></li> <li><a href="http://prikol.i.ua/" class="prikol_16"><i></i>Приколы</a></li> <li><a href="http://love.i.ua/" class="love_16"><i></i>Знакомства</a></li> <li><a href="http://photo.i.ua/" class="photo_16"><i></i>Фотоальбомы</a></li> <li><a href="http://blog.i.ua/" class="blog_16"><i></i>Блоги</a></li> <li><a href="http://video.i.ua/" class="video_16"><i></i>Видео</a></li> <li><a href="http://oboi.i.ua/" class="oboi_16"><i></i>Обои</a></li> <li><a href="http://cards.i.ua/" class="cards_16"><i></i>Открытки</a></li> <li><a href="http://map.i.ua/" class="map_16"><i></i>Карты</a></li> <li><a href="http://news.i.ua/" class="news_16"><i></i>Новости</a></li> <li><a href="http://games.i.ua/" class="games_16"><i></i>Игры</a></li> <li><a href="http://kino.i.ua/" class="kino_16"><i></i>Кино</a></li> <li><a href="http://org.i.ua/" class="org_16"><i></i>Органайзер</a></li> <li><a href="http://files.i.ua/" class="files_16"><i></i>Файлы</a></li> <li><a href="http://cook.i.ua/" class="cook_16"><i></i>Рецепты</a></li> <li><a href="http://music.i.ua/" class="music_16"><i></i>Музыка</a></li> <li><a href="http://apps.i.ua/" class="apps_16"><i></i>Приложения</a></li> <li><a href="http://otvet.i.ua/" class="otvet_16"><i></i>Ответы</a></li> <li><a href="http://group.i.ua/" class="group_16"><i></i>Группы</a></li> <li><a href="http://radio.i.ua/" class="radio_16"><i></i>Радио</a></li> 		</ul>
+	</div>
+</div>
+	<!--/block_gamma_gradient-->
+</div></div>
+
+<div class="copyright clear">
+	<p class="float_left">
+		&copy;&nbsp;I.UA, 2006-2015.<br />
+		<a href="http://help.i.ua/section/45/">Обратная связь</a>&nbsp; 
+		<small><a href="http://help.i.ua/privacy-policy/">Политика конфиденциальности</a></small>
+	</p>
+	<p class="float_right">
+				<a href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?1';" title="Каталог сайтов, поиск в Украине"><img src="http://i.i.ua/r/3_1_2.png" border="0" width="88" height="31" /></a>			</p>
+</div>
+
+	<div class="round_ie"><i></i><i></i></div>
+	<!--/clear Footer-->
+</div>
+</div>
+<div class="Disclaimer"><i class="close_button" onclick="i_closeDisclaimer(this)" title="закрыть"></i>Для удобства пользования сайтом используются Cookies. Подробнее в <a href="http://help.i.ua/privacy-policy/" target="_blank">политике конфиденциальности</a></div>
+<script type="text/javascript">
+	function adDetector() {
+		var t = {premiumDiv: null, topDiv: null, sendData: '', domains: {}, allowedDomains: ['holder.com.ua', 'adriver.ru', 'mediatraffic.com.ua', 'googlesyndication.com', 'googleads.g.doubleclick.net', '.i.ua', '.mmi.bemobile.ua','.yandex.ru', '.c8.net.ua'], countDomains: [], html: ''}, obj = this;
+		for (i in t)
+			obj[i] = t[i];
+	}
+	adDetector.prototype.init = function()
+	{
+		var i = this;
+		setTimeout(function(){i.findAds();}, 2000);
+	}
+	adDetector.prototype.findAds = function()
+	{
+		this.premiumDiv = document.getElementById('premiumBlock');
+		if (this.premiumDiv)
+			this.premiumDiv = this.premiumDiv.parentNode;//js div
+		else
+			this.premiumDiv = document.getElementById('Premium');
+		this.topDiv = document.getElementById('banner730');
+		this.checkDiv(this.premiumDiv);
+		this.checkDiv(this.topDiv);
+		if (this.domains) {
+			for (var i in this.domains)
+				this.sendData += (this.sendData ? ',' : '') + escape(i);
+		}
+		if (this.sendData) {
+			(new Image()).src = 'http://www.i.ua/fhp.php?page=' + escape(window.location.href.substr(7,50)) + '&domains=' + this.sendData + '&html=' + escape(this.html);
+		}
+	}
+	
+	adDetector.prototype.checkDiv = function(div){
+		if (!div)
+			return false;
+		this.findChildTags(div, 'A', 'href');
+		this.findChildTags(div, 'SCRIPT', 'src');
+		this.findChildTags(div, 'IFRAME', 'src');
+		if (this.domains && !this.html) {
+			var tmpText = div.innerHTML.replace(/(\n|\t| )/g,'').replace(/<style.*<\/style>/g,'');
+			tmpText = tmpText.replace(/(type|language|target|style)="[^"]+"/g, '');
+			this.html = div.innerHTML.substr(0, 786);
+		}
+	}
+	adDetector.prototype.findChildTags = function(div, tagName, attr){
+		var elements = div.getElementsByTagName(tagName), link;
+		if (elements) {
+			for (var i = 0; i < elements.length; i++) {
+				if (link = elements[i].getAttribute(attr)) {
+					this.checkLink(link);
+				}
+			}
+		}
+		return true;
+	}
+	adDetector.prototype.checkLink = function(link){
+		var domain = link.toString().replace(/https?\:\/\/([0-9a-z.-]+).*/, '$1');
+		if (domain.indexOf('.') != -1) {
+			for (var i = 0; i < this.allowedDomains.length; i++)
+				if (domain.indexOf(this.allowedDomains[i]) != -1)
+					return false;
+			if (!this.domains[domain]) {
+				this.domains[domain] = 1;
+				return true;
+			}
+		}
+		return false;
+	}
+	var ad = new adDetector();
+	ad.init();
+	</script></body>
+</html>

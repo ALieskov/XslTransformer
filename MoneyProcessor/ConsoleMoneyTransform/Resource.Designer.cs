@@ -80,6 +80,32 @@ namespace ConsoleMoneyTransform {
         ///				&lt;Time&gt;
         ///					&lt;xsl:value-of select=&quot;small[@ [rest of string was truncated]&quot;;.
         /// </summary>
+        internal static string Finance_i_ua_TransformSchema {
+            get {
+                return ResourceManager.GetString("Finance_i_ua_TransformSchema", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///
+        ///&lt;xsl:stylesheet version=&quot;1.0&quot;
+        ///    xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
+        ///    xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;
+        ///    xmlns:func=&quot;urn:script-functions&quot; exclude-result-prefixes=&quot;msxsl func&quot;&gt;
+        ///
+        ///  &lt;xsl:output method=&quot;xml&quot; indent=&quot;yes&quot; /&gt;
+        ///
+        ///  &lt;!--ENTRY POINT--&gt;
+        ///  &lt;xsl:template match=&quot;/div&quot;&gt;
+        ///  	  &lt;!--/div[@class=&apos;au-deals-list&apos;]--&gt;
+        ///    &lt;MoneyOrders&gt;
+        ///		&lt;xsl:for-each select=&quot;div&quot;&gt;
+        ///			&lt;MoneyOrder&gt;
+        ///
+        ///				&lt;Time&gt;
+        ///					&lt;xsl:value-of select=&quot;small[@ [rest of string was truncated]&quot;;.
+        /// </summary>
         internal static string MinfinTransformSchema {
             get {
                 return ResourceManager.GetString("MinfinTransformSchema", resourceCulture);
